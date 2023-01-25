@@ -1,0 +1,24 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-au'
+title = 'My New Hugo Site'
+
+[module.imports]
+path = "github.com/willfaught/paige"
+
+[menu]
+    [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe = true
+        [markup.goldmark.highlight]
+        noclasses = false
+
+
+[params]
+    [params.paige]
+    hide_theme_link = true
