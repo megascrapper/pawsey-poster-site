@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-au'
-title = 'My New Hugo Site'
+title = "Anomaly Detection for Privacy Preserving Time Series Building IoT Data"
 
 [module.imports]
 path = "github.com/willfaught/paige"
@@ -10,6 +10,16 @@ path = "github.com/willfaught/paige"
     identifier = "home"
     name = "Home"
     url = "/"
+
+    [[menu.main]]
+    identifier = "poster-references"
+    name = "Poster References"
+    url = "/poster-references"
+
+    [[menu.main]]
+    identifier = "plots"
+    name = "Plots"
+    url = "/plots"
 
 [markup]
     [markup.goldmark]

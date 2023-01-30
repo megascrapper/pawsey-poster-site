@@ -1,14 +1,42 @@
 ---
-blurb: There's a new daddy in town. A discipline daddy. If I make this comeback, I'll buy you a hundred George Michaels that you can teach to drive! These are my awards, Mother. From Army. The seal is for marksmanship, and the gorilla is for sand racing. We'll have to find something to do so that people can look at you without wanting to kill [themselves](https://bluthipsum.com).
-description: Go ahead, touch the Cornballer
-greeting: You know [best](https://www.youtube.com/watch?v=1WDW8XKEGgU)
+blurb: Internet of Things and smart buildings are all the rage nowadays. While these systems can improve comfort and efficiency, many of these smart systems were built with *very* little regard to privacy. We are developing an anomaly detection system in time series building IoT data. Also, we identified its privacy threats and propose ways we can mitigate those threats.
+description: "By Akbar Fadiansyah -- Supervised by Dr Chehara Pathmabandu"
+greeting: ""
 image_stretch: true
 image_url: stretch.webp
 paige:
     titleclass: display-1 fw-bold text-center
-title: No Borders, No Limits
+title: Anomaly Detection for Privacy Preserving Time Series Building IoT Data
 ---
 
-<p class="lead text-center">
-    <a href="https://github.com/willfaught/paige">Paige: Powerful, pliable pixel perfection. An advanced Hugo theme.</a>
-</p>
+<div class="container">
+    <div class="row">
+        <div class="col-2"></div>
+        <div class="col text-center d-grid gap-2">
+            <a class="btn btn-primary" href="pawsey-poster.pdf">View poster</a>
+        </div>
+        <div class="col-2"></div>
+    </div>
+</div>
+
+## Background and motivation
+
+## Research questions
+
+## Aim
+
+## Related work
+
+## Threat model
+
+## Dataset and sensor selection
+
+## Model
+
+## Results
+
+## Discussion
+
+## A privacy-preserving IoT architecture
+
+## Future work
