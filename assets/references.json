@@ -1,0 +1,4409 @@
+[
+	{
+		"id": "http://zotero.org/groups/4911682/items/Y5J3B4NW",
+		"type": "article-journal",
+		"container-title": "Engineering Applications of Artificial Intelligence",
+		"DOI": "10.1016/j.engappai.2022.105254",
+		"ISSN": "09521976",
+		"journalAbbreviation": "Engineering Applications of Artificial Intelligence",
+		"language": "en",
+		"page": "105254",
+		"source": "DOI.org (Crossref)",
+		"title": "Deep and transfer learning for building occupancy detection: A review and comparative analysis",
+		"title-short": "Deep and transfer learning for building occupancy detection",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0952197622003207",
+		"volume": "115",
+		"author": [
+			{
+				"family": "Sayed",
+				"given": "Aya Nabil"
+			},
+			{
+				"family": "Himeur",
+				"given": "Yassine"
+			},
+			{
+				"family": "Bensaali",
+				"given": "Faycal"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/P2Z6HGZB",
+		"type": "paper-conference",
+		"container-title": "2017 International Conference on ICT For Smart Society (ICISS)",
+		"DOI": "10.1109/ICTSS.2017.8288878",
+		"event-place": "Tangerang",
+		"event-title": "2017 International Conference on ICT For Smart Society (ICISS)",
+		"ISBN": "978-1-5386-2330-5",
+		"page": "1-7",
+		"publisher": "IEEE",
+		"publisher-place": "Tangerang",
+		"source": "DOI.org (Crossref)",
+		"title": "A review on building occupancy estimation methods",
+		"URL": "http://ieeexplore.ieee.org/document/8288878/",
+		"author": [
+			{
+				"family": "Mulia",
+				"given": "Muhammad Tirta"
+			},
+			{
+				"family": "Supangkat",
+				"given": "Suhono Harso"
+			},
+			{
+				"family": "Hariyanto",
+				"given": "Nanang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/ULJGAYMI",
+		"type": "article-journal",
+		"container-title": "Energy and Buildings",
+		"DOI": "10.1016/j.enbuild.2018.03.084",
+		"ISSN": "03787788",
+		"journalAbbreviation": "Energy and Buildings",
+		"language": "en",
+		"page": "260-270",
+		"source": "DOI.org (Crossref)",
+		"title": "Building occupancy estimation and detection: A review",
+		"title-short": "Building occupancy estimation and detection",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0378778818301506",
+		"volume": "169",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Zhenghua"
+			},
+			{
+				"family": "Jiang",
+				"given": "Chaoyang"
+			},
+			{
+				"family": "Xie",
+				"given": "Lihua"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/XPU8G7RV",
+		"type": "article-journal",
+		"container-title": "Energy and Buildings",
+		"DOI": "10.1016/j.enbuild.2020.110159",
+		"ISSN": "03787788",
+		"journalAbbreviation": "Energy and Buildings",
+		"language": "en",
+		"page": "110159",
+		"source": "DOI.org (Crossref)",
+		"title": "A review of studies applying machine learning models to predict occupancy and window-opening behaviours in smart buildings",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0378778820303017",
+		"volume": "223",
+		"author": [
+			{
+				"family": "Dai",
+				"given": "Xilei"
+			},
+			{
+				"family": "Liu",
+				"given": "Junjie"
+			},
+			{
+				"family": "Zhang",
+				"given": "Xin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/JZH8GFRU",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the Ninth International Conference on Future Energy Systems",
+		"DOI": "10.1145/3208903.3208940",
+		"event-place": "Karlsruhe Germany",
+		"event-title": "e-Energy '18: The Ninth International Conference on Future Energy Systems",
+		"ISBN": "978-1-4503-5767-8",
+		"language": "en",
+		"page": "277-281",
+		"publisher": "ACM",
+		"publisher-place": "Karlsruhe Germany",
+		"source": "DOI.org (Crossref)",
+		"title": "Data-Driven Models for Building Occupancy Estimation",
+		"URL": "https://dl.acm.org/doi/10.1145/3208903.3208940",
+		"author": [
+			{
+				"family": "Golestan",
+				"given": "Shadan"
+			},
+			{
+				"family": "Kazemian",
+				"given": "Sepehr"
+			},
+			{
+				"family": "Ardakanian",
+				"given": "Omid"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/7EHGHR6G",
+		"type": "article-journal",
+		"abstract": "Many countries worldwide face challenges in controlling building incidence prevention measures for fire disasters. The most critical issues are the localization, identification, detection of the room occupant. Internet of Things (IoT) along with machine learning proved the increase of the smartness of the building by providing real-time data acquisition using sensors and actuators for prediction mechanisms. This paper proposes the implementation of an IoT framework to capture indoor environmental parameters for occupancy multivariate time-series data. The application of the Long Short Term Memory (LSTM) Deep Learning algorithm is used to infer the knowledge of the presence of human beings. An experiment is conducted in an office room using multivariate time-series as predictors in the regression forecasting problem. The results obtained demonstrate that with the developed system it is possible to obtain, process, and store environmental information. The information collected was applied to the LSTM algorithm and compared with other machine learning algorithms. The compared algorithms are Support Vector Machine, Naïve Bayes Network, and Multilayer Perceptron Feed-Forward Network. The outcomes based on the parametric calibrations demonstrate that LSTM performs better in the context of the proposed application.",
+		"container-title": "Future Internet",
+		"DOI": "10.3390/fi13030067",
+		"ISSN": "1999-5903",
+		"issue": "3",
+		"journalAbbreviation": "Future Internet",
+		"language": "en",
+		"page": "67",
+		"source": "DOI.org (Crossref)",
+		"title": "Implementation of IoT Framework with Data Analysis Using Deep Learning Methods for Occupancy Prediction in a Building",
+		"URL": "https://www.mdpi.com/1999-5903/13/3/67",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Hitimana",
+				"given": "Eric"
+			},
+			{
+				"family": "Bajpai",
+				"given": "Gaurav"
+			},
+			{
+				"family": "Musabe",
+				"given": "Richard"
+			},
+			{
+				"family": "Sibomana",
+				"given": "Louis"
+			},
+			{
+				"family": "Kayalvizhi",
+				"given": "Jayavel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/F4BEFAUB",
+		"type": "paper-conference",
+		"container-title": "2017 IEEE Sensors Applications Symposium (SAS)",
+		"DOI": "10.1109/SAS.2017.7894091",
+		"event-place": "Glassboro, NJ, USA",
+		"event-title": "2017 IEEE Sensors Applications Symposium (SAS)",
+		"ISBN": "978-1-5090-3202-0",
+		"page": "1-6",
+		"publisher": "IEEE",
+		"publisher-place": "Glassboro, NJ, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Real-time room occupancy estimation with Bayesian machine learning using a single PIR sensor and microcontroller",
+		"URL": "http://ieeexplore.ieee.org/document/7894091/",
+		"author": [
+			{
+				"family": "Leech",
+				"given": "Charles"
+			},
+			{
+				"family": "Raykov",
+				"given": "Yordan P."
+			},
+			{
+				"family": "Ozer",
+				"given": "Emre"
+			},
+			{
+				"family": "Merrett",
+				"given": "Geoff V."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/DPUBVB7K",
+		"type": "paper-conference",
+		"container-title": "2018 IEEE Globecom Workshops (GC Wkshps)",
+		"DOI": "10.1109/GLOCOMW.2018.8644432",
+		"event-place": "Abu Dhabi, United Arab Emirates",
+		"event-title": "2018 IEEE Globecom Workshops (GC Wkshps)",
+		"ISBN": "978-1-5386-4920-6",
+		"page": "1-6",
+		"publisher": "IEEE",
+		"publisher-place": "Abu Dhabi, United Arab Emirates",
+		"source": "DOI.org (Crossref)",
+		"title": "Machine Learning-Based Occupancy Estimation Using Multivariate Sensor Nodes",
+		"URL": "https://ieeexplore.ieee.org/document/8644432/",
+		"author": [
+			{
+				"family": "Singh",
+				"given": "Adarsh Pal"
+			},
+			{
+				"family": "Jain",
+				"given": "Vivek"
+			},
+			{
+				"family": "Chaudhari",
+				"given": "Sachin"
+			},
+			{
+				"family": "Kraemer",
+				"given": "Frank Alexander"
+			},
+			{
+				"family": "Werner",
+				"given": "Stefan"
+			},
+			{
+				"family": "Garg",
+				"given": "Vishal"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/AGFVMXKY",
+		"type": "paper-conference",
+		"container-title": "2015 International Joint Conference on Neural Networks (IJCNN)",
+		"DOI": "10.1109/IJCNN.2015.7280781",
+		"event-place": "Killarney, Ireland",
+		"event-title": "2015 International Joint Conference on Neural Networks (IJCNN)",
+		"ISBN": "978-1-4799-1960-4",
+		"page": "1-8",
+		"publisher": "IEEE",
+		"publisher-place": "Killarney, Ireland",
+		"source": "DOI.org (Crossref)",
+		"title": "Real-time occupancy estimation using environmental parameters",
+		"URL": "http://ieeexplore.ieee.org/document/7280781/",
+		"author": [
+			{
+				"family": "Masood",
+				"given": "Mustafa K."
+			},
+			{
+				"literal": "Yeng Chai Soh"
+			},
+			{
+				"family": "Chang",
+				"given": "Victor W.-C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/FVTKNZPT",
+		"type": "article-journal",
+		"container-title": "Building and Environment",
+		"DOI": "10.1016/j.buildenv.2016.06.039",
+		"ISSN": "03601323",
+		"journalAbbreviation": "Building and Environment",
+		"language": "en",
+		"page": "1-9",
+		"source": "DOI.org (Crossref)",
+		"title": "Development of an occupancy prediction model using indoor environmental data based on machine learning techniques",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0360132316302463",
+		"volume": "107",
+		"author": [
+			{
+				"family": "Ryu",
+				"given": "Seung Ho"
+			},
+			{
+				"family": "Moon",
+				"given": "Hyeun Jun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/L9HYJGJM",
+		"type": "article-journal",
+		"container-title": "IEEE Sensors Journal",
+		"DOI": "10.1109/JSEN.2016.2530824",
+		"ISSN": "1530-437X, 1558-1748, 2379-9153",
+		"issue": "10",
+		"journalAbbreviation": "IEEE Sensors J.",
+		"page": "3784-3791",
+		"source": "DOI.org (Crossref)",
+		"title": "Occupancy Estimation Using a Low-Pixel Count Thermal Imager",
+		"URL": "http://ieeexplore.ieee.org/document/7409929/",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Tyndall",
+				"given": "Ash"
+			},
+			{
+				"family": "Cardell-Oliver",
+				"given": "Rachel"
+			},
+			{
+				"family": "Keating",
+				"given": "Adrian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/2K9ZX9SY",
+		"type": "article-journal",
+		"container-title": "Energy and Buildings",
+		"DOI": "10.1016/j.enbuild.2019.06.043",
+		"ISSN": "03787788",
+		"journalAbbreviation": "Energy and Buildings",
+		"language": "en",
+		"page": "216-222",
+		"source": "DOI.org (Crossref)",
+		"title": "Real-time occupancy prediction in a large exhibition hall using deep learning approach",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0378778819304815",
+		"volume": "199",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Seonghyeon"
+			},
+			{
+				"family": "Kang",
+				"given": "Seokwoo"
+			},
+			{
+				"family": "Ryu",
+				"given": "Kwang Ryel"
+			},
+			{
+				"family": "Song",
+				"given": "Giltae"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/GT3UQD9M",
+		"type": "article-journal",
+		"container-title": "Energy and Buildings",
+		"DOI": "10.1016/j.enbuild.2021.111377",
+		"ISSN": "03787788",
+		"journalAbbreviation": "Energy and Buildings",
+		"language": "en",
+		"page": "111377",
+		"source": "DOI.org (Crossref)",
+		"title": "Occupancy-based HVAC control using deep learning algorithms for estimating online preconditioning time in residential buildings",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0378778821006617",
+		"volume": "252",
+		"author": [
+			{
+				"family": "Esrafilian-Najafabadi",
+				"given": "Mohammad"
+			},
+			{
+				"family": "Haghighat",
+				"given": "Fariborz"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/S7CPZTXR",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Industrial Electronics",
+		"DOI": "10.1109/TIE.2017.2711530",
+		"ISSN": "0278-0046, 1557-9948",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Ind. Electron.",
+		"page": "9549-9559",
+		"source": "DOI.org (Crossref)",
+		"title": "Building Occupancy Estimation with Environmental Sensors via CDBLSTM",
+		"URL": "http://ieeexplore.ieee.org/document/7938392/",
+		"volume": "64",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Zhenghua"
+			},
+			{
+				"family": "Zhao",
+				"given": "Rui"
+			},
+			{
+				"family": "Zhu",
+				"given": "Qingchang"
+			},
+			{
+				"family": "Masood",
+				"given": "Mustafa K."
+			},
+			{
+				"family": "Soh",
+				"given": "Yeng Chai"
+			},
+			{
+				"family": "Mao",
+				"given": "Kezhi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/WTQTKJUF",
+		"type": "paper-conference",
+		"container-title": "2021 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)",
+		"DOI": "10.1109/CCECE53047.2021.9569139",
+		"event-place": "ON, Canada",
+		"event-title": "2021 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)",
+		"ISBN": "978-1-66544-864-2",
+		"page": "1-4",
+		"publisher": "IEEE",
+		"publisher-place": "ON, Canada",
+		"source": "DOI.org (Crossref)",
+		"title": "Privacy Preserving Occupancy Detection Using NB IoT Sensors",
+		"URL": "https://ieeexplore.ieee.org/document/9569139/",
+		"author": [
+			{
+				"family": "Chand",
+				"given": "Cody"
+			},
+			{
+				"family": "Villanueva",
+				"given": "Angelo"
+			},
+			{
+				"family": "Marty",
+				"given": "Matt"
+			},
+			{
+				"family": "Aibin",
+				"given": "Michal"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/YYNDIYHK",
+		"type": "article-journal",
+		"abstract": "Nano-scaled structures, wireless sensing, wearable devices, and wireless communications systems are anticipated to support the development of new next-generation technologies in the near future. Exponential rise in future Radio-Frequency (RF) sensing systems have demonstrated its applications in areas such as wearable consumer electronics, remote healthcare monitoring, wireless implants, and smart buildings. In this paper, we propose a novel, non-wearable, device-free, privacy-preserving Wi-Fi imaging-based occupancy detection system for future smart buildings. The proposed system is developed using off-the-shelf non-wearable devices such as Wi-Fi router, network interface card, and an omnidirectional antenna for future body centric communication. The core idea is to detect presence of person along its activities of daily living without deploying a device on person’s body. The Wi-Fi signals received using non-wearable devices are converted into time–frequency scalograms. The occupancy is detected by classifying the scalogram images using an auto-encoder neural network. In addition to occupancy detection, the deep neural network also identifies the activity performed by the occupant. Moreover, a novel encryption algorithm using Chirikov and Intertwining map-based is also proposed to encrypt the scalogram images. This feature enables secure storage of scalogram images in a database for future analysis. The classification accuracy of the proposed scheme is 91.1%.",
+		"container-title": "Micromachines",
+		"DOI": "10.3390/mi11040379",
+		"ISSN": "2072-666X",
+		"issue": "4",
+		"journalAbbreviation": "Micromachines",
+		"language": "en",
+		"page": "379",
+		"source": "DOI.org (Crossref)",
+		"title": "Privacy-Preserving Non-Wearable Occupancy Monitoring System Exploiting Wi-Fi Imaging for Next-Generation Body Centric Communication",
+		"URL": "https://www.mdpi.com/2072-666X/11/4/379",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Aziz Shah",
+				"given": "Syed"
+			},
+			{
+				"family": "Ahmad",
+				"given": "Jawad"
+			},
+			{
+				"family": "Tahir",
+				"given": "Ahsen"
+			},
+			{
+				"family": "Ahmed",
+				"given": "Fawad"
+			},
+			{
+				"family": "Russell",
+				"given": "Gordon"
+			},
+			{
+				"family": "Shah",
+				"given": "Syed Yaseen"
+			},
+			{
+				"family": "Buchanan",
+				"given": "William J."
+			},
+			{
+				"family": "Abbasi",
+				"given": "Qammer H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					4,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/U8EB5KIE",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+		"DOI": "10.1145/2971648.2971746",
+		"event-place": "Heidelberg Germany",
+		"event-title": "UbiComp '16: The 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+		"ISBN": "978-1-4503-4461-6",
+		"language": "en",
+		"page": "1016-1027",
+		"publisher": "ACM",
+		"publisher-place": "Heidelberg Germany",
+		"source": "DOI.org (Crossref)",
+		"title": "Predicting room occupancy with a single passive infrared (PIR) sensor through behavior extraction",
+		"URL": "https://dl.acm.org/doi/10.1145/2971648.2971746",
+		"author": [
+			{
+				"family": "Raykov",
+				"given": "Yordan P."
+			},
+			{
+				"family": "Ozer",
+				"given": "Emre"
+			},
+			{
+				"family": "Dasika",
+				"given": "Ganesh"
+			},
+			{
+				"family": "Boukouvalas",
+				"given": "Alexis"
+			},
+			{
+				"family": "Little",
+				"given": "Max A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/HA7M4NCA",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+		"DOI": "10.1145/3408308.3431124",
+		"event-place": "Virtual Event Japan",
+		"event-title": "BuildSys '20: The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+		"ISBN": "978-1-4503-8061-4",
+		"language": "en",
+		"page": "324-325",
+		"publisher": "ACM",
+		"publisher-place": "Virtual Event Japan",
+		"source": "DOI.org (Crossref)",
+		"title": "Detecting Building Occupancy with Synthetic Environmental Data",
+		"URL": "https://dl.acm.org/doi/10.1145/3408308.3431124",
+		"author": [
+			{
+				"family": "Weber",
+				"given": "Manuel"
+			},
+			{
+				"family": "Doblander",
+				"given": "Christoph"
+			},
+			{
+				"family": "Mandl",
+				"given": "Peter"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/B4UCUAJN",
+		"type": "article-journal",
+		"abstract": "Information about room-level occupancy is crucial to many building-related tasks, such as building automation or energy performance simulation. Current occupancy detection literature focuses on data-driven methods, but is mostly based on small case studies with few rooms. The necessity to collect room-specific data for each room of interest impedes applicability of machine learning, especially data-intensive deep learning approaches, in practice. To derive accurate predictions from less data, we suggest knowledge transfer from synthetic data. In this paper, we conduct an experiment with data from a CO$_2$ sensor in an office room, and additional synthetic data obtained from a simulation. Our contribution includes (a) a simulation method for CO$_2$ dynamics under randomized occupant behavior, (b) a proof of concept for knowledge transfer from simulated CO$_2$ data, and (c) an outline of future research implications. From our results, we can conclude that the transfer approach can effectively reduce the required amount of data for model training.",
+		"DOI": "10.48550/ARXIV.2010.04209",
+		"license": "arXiv.org perpetual, non-exclusive license",
+		"note": "publisher: arXiv\nversion: 1",
+		"source": "DOI.org (Datacite)",
+		"title": "Towards the Detection of Building Occupancy with Synthetic Environmental Data",
+		"URL": "https://arxiv.org/abs/2010.04209",
+		"author": [
+			{
+				"family": "Weber",
+				"given": "Manuel"
+			},
+			{
+				"family": "Doblander",
+				"given": "Christoph"
+			},
+			{
+				"family": "Mandl",
+				"given": "Peter"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/A4WZUCJX",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2018 International Conference on Management of Data",
+		"DOI": "10.1145/3183713.3193571",
+		"event-place": "Houston TX USA",
+		"event-title": "SIGMOD/PODS '18: International Conference on Management of Data",
+		"ISBN": "978-1-4503-4703-7",
+		"language": "en",
+		"page": "1725-1728",
+		"publisher": "ACM",
+		"publisher-place": "Houston TX USA",
+		"source": "DOI.org (Crossref)",
+		"title": "IoT-Detective: Analyzing IoT Data Under Differential Privacy",
+		"title-short": "IoT-Detective",
+		"URL": "https://dl.acm.org/doi/10.1145/3183713.3193571",
+		"author": [
+			{
+				"family": "Ghayyur",
+				"given": "Sameera"
+			},
+			{
+				"family": "Chen",
+				"given": "Yan"
+			},
+			{
+				"family": "Yus",
+				"given": "Roberto"
+			},
+			{
+				"family": "Machanavajjhala",
+				"given": "Ashwin"
+			},
+			{
+				"family": "Hay",
+				"given": "Michael"
+			},
+			{
+				"family": "Miklau",
+				"given": "Gerome"
+			},
+			{
+				"family": "Mehrotra",
+				"given": "Sharad"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/AWYDX3JX",
+		"type": "article-journal",
+		"container-title": "IEEE Access",
+		"DOI": "10.1109/ACCESS.2021.3124309",
+		"ISSN": "2169-3536",
+		"journalAbbreviation": "IEEE Access",
+		"page": "153276-153304",
+		"source": "DOI.org (Crossref)",
+		"title": "Differential Privacy for IoT-Enabled Critical Infrastructure: A Comprehensive Survey",
+		"title-short": "Differential Privacy for IoT-Enabled Critical Infrastructure",
+		"URL": "https://ieeexplore.ieee.org/document/9594795/",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Husnoo",
+				"given": "Muhammad Akbar"
+			},
+			{
+				"family": "Anwar",
+				"given": "Adnan"
+			},
+			{
+				"family": "Chakrabortty",
+				"given": "Ripon K."
+			},
+			{
+				"family": "Doss",
+				"given": "Robin"
+			},
+			{
+				"family": "Ryan",
+				"given": "Mike J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/4TL48CLV",
+		"type": "article-journal",
+		"container-title": "IEEE Communications Magazine",
+		"DOI": "10.1109/MCOM.2018.1701080",
+		"ISSN": "0163-6804, 1558-1896",
+		"issue": "8",
+		"journalAbbreviation": "IEEE Commun. Mag.",
+		"page": "20-25",
+		"source": "DOI.org (Crossref)",
+		"title": "Distilling at the Edge: A Local Differential Privacy Obfuscation Framework for IoT Data Analytics",
+		"title-short": "Distilling at the Edge",
+		"URL": "https://ieeexplore.ieee.org/document/8436040/",
+		"volume": "56",
+		"author": [
+			{
+				"family": "Xu",
+				"given": "Chugui"
+			},
+			{
+				"family": "Ren",
+				"given": "Ju"
+			},
+			{
+				"family": "Zhang",
+				"given": "Deyu"
+			},
+			{
+				"family": "Zhang",
+				"given": "Yaoxue"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/JP2SKWSB",
+		"type": "article-journal",
+		"abstract": "With the rapid development of the Internet of Things (IoT), wearable devices have become ubiquitous and interconnected in daily lives. Because wearable devices collect, transmit, and monitor humans’ physiological signals, data privacy should be a concern, as well as fully protected, throughout the whole process. However, the existing privacy protection methods are insufficient. In this paper, we propose a practical privacy-preserving mechanism for physiological signals collected by intelligent wearable devices. In the data acquisition and transmission stage, we employed existing asymmetry encryption-based methods. In the data publishing stage, we proposed a new model based on the combination and optimization of k-anonymity and differential privacy. An entropy-based personalized k-anonymity algorithm is proposed to improve the performance on processing the static and long-term data. Moreover, we use the symmetry of differential privacy and propose the temporal differential privacy mechanism for real-time data to suppress the privacy leakage while updating data. It is proved theoretically that the combination of the two algorithms is reasonable. Finally, we use smart bracelets as an example to verify the performance of our mechanism. The experiment results show that personalized k-anonymity improves up to 6.25% in terms of security index compared with traditional k-anonymity, and the grouping results are more centralized. Moreover, temporal differential privacy effectively reduces the amount of information exposed, which protects the privacy of IoT-based users.",
+		"container-title": "Symmetry",
+		"DOI": "10.3390/sym13061043",
+		"ISSN": "2073-8994",
+		"issue": "6",
+		"journalAbbreviation": "Symmetry",
+		"language": "en",
+		"page": "1043",
+		"source": "DOI.org (Crossref)",
+		"title": "A Practical Privacy-Preserving Publishing Mechanism Based on Personalized k-Anonymity and Temporal Differential Privacy for Wearable IoT Applications",
+		"URL": "https://www.mdpi.com/2073-8994/13/6/1043",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Guo",
+				"given": "Junqi"
+			},
+			{
+				"family": "Yang",
+				"given": "Minghui"
+			},
+			{
+				"family": "Wan",
+				"given": "Boxin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/KGNZ7EZJ",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security",
+		"DOI": "10.1145/3133956.3134102",
+		"event-place": "Dallas Texas USA",
+		"event-title": "CCS '17: 2017 ACM SIGSAC Conference on Computer and Communications Security",
+		"ISBN": "978-1-4503-4946-8",
+		"language": "en",
+		"page": "1375-1388",
+		"publisher": "ACM",
+		"publisher-place": "Dallas Texas USA",
+		"source": "DOI.org (Crossref)",
+		"title": "PeGaSus: Data-Adaptive Differentially Private Stream Processing",
+		"title-short": "PeGaSus",
+		"URL": "https://dl.acm.org/doi/10.1145/3133956.3134102",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Yan"
+			},
+			{
+				"family": "Machanavajjhala",
+				"given": "Ashwin"
+			},
+			{
+				"family": "Hay",
+				"given": "Michael"
+			},
+			{
+				"family": "Miklau",
+				"given": "Gerome"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/7CS5Z5GR",
+		"type": "paper-conference",
+		"container-title": "2019 IEEE 21st International Conference on High Performance Computing and Communications; IEEE 17th International Conference on Smart City; IEEE 5th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)",
+		"DOI": "10.1109/HPCC/SmartCity/DSS.2019.00180",
+		"event-place": "Zhangjiajie, China",
+		"event-title": "2019 IEEE 21st International Conference on High Performance Computing and Communications; IEEE 17th International Conference on Smart City; IEEE 5th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)",
+		"ISBN": "978-1-72812-058-4",
+		"page": "1290-1297",
+		"publisher": "IEEE",
+		"publisher-place": "Zhangjiajie, China",
+		"source": "DOI.org (Crossref)",
+		"title": "PrivStream: Enabling Privacy-Preserving Inferences on IoT Data Stream at the Edge",
+		"title-short": "PrivStream",
+		"URL": "https://ieeexplore.ieee.org/document/8855725/",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Dan"
+			},
+			{
+				"family": "Ren",
+				"given": "Ju"
+			},
+			{
+				"family": "Xu",
+				"given": "Chugui"
+			},
+			{
+				"family": "Liu",
+				"given": "Juncheng"
+			},
+			{
+				"family": "Wang",
+				"given": "Zhibo"
+			},
+			{
+				"family": "Zhang",
+				"given": "Yaoxue"
+			},
+			{
+				"family": "Shen",
+				"given": "Xuemin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/CXC7Z3KK",
+		"type": "article-journal",
+		"container-title": "Future Generation Computer Systems",
+		"DOI": "10.1016/j.future.2013.08.006",
+		"ISSN": "0167739X",
+		"journalAbbreviation": "Future Generation Computer Systems",
+		"language": "en",
+		"page": "13-22",
+		"source": "DOI.org (Crossref)",
+		"title": "Risk driven Smart Home resource management using cloud services",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0167739X13001714",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Kirkham",
+				"given": "Tom"
+			},
+			{
+				"family": "Armstrong",
+				"given": "Django"
+			},
+			{
+				"family": "Djemame",
+				"given": "Karim"
+			},
+			{
+				"family": "Jiang",
+				"given": "Ming"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/9W85FGMC",
+		"type": "chapter",
+		"container-title": "Applications of Intelligent Technologies in Healthcare",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-96138-5",
+		"note": "collection-title: EAI/Springer Innovations in Communication and Computing\nDOI: 10.1007/978-3-319-96139-2_5",
+		"page": "47-54",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "A Privacy Risk Assessment for the Internet of Things in Healthcare",
+		"URL": "http://link.springer.com/10.1007/978-3-319-96139-2_5",
+		"editor": [
+			{
+				"family": "Khan",
+				"given": "Fazlullah"
+			},
+			{
+				"family": "Jan",
+				"given": "Mian Ahmad"
+			},
+			{
+				"family": "Alam",
+				"given": "Muhammad"
+			}
+		],
+		"author": [
+			{
+				"family": "Elkhodr",
+				"given": "Mahmoud"
+			},
+			{
+				"family": "Alsinglawi",
+				"given": "Belal"
+			},
+			{
+				"family": "Alshehri",
+				"given": "Mohammad"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/YK3L4GMP",
+		"type": "article-journal",
+		"container-title": "Wuhan University Journal of Natural Sciences",
+		"DOI": "10.1007/s11859-014-1031-3",
+		"ISSN": "1007-1202, 1993-4998",
+		"issue": "5",
+		"journalAbbreviation": "Wuhan Univ. J. Nat. Sci.",
+		"language": "en",
+		"page": "398-404",
+		"source": "DOI.org (Crossref)",
+		"title": "A novel risk assessment model for privacy security in Internet of Things",
+		"URL": "http://link.springer.com/10.1007/s11859-014-1031-3",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Wu",
+				"given": "Tianshui"
+			},
+			{
+				"family": "Zhao",
+				"given": "Gang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/4MMQ3FNH",
+		"type": "paper-conference",
+		"container-title": "2017 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)",
+		"DOI": "10.1109/ANTS.2017.8384121",
+		"event-place": "Bhubaneswar",
+		"event-title": "2017 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)",
+		"ISBN": "978-1-5386-2347-3",
+		"page": "1-6",
+		"publisher": "IEEE",
+		"publisher-place": "Bhubaneswar",
+		"source": "DOI.org (Crossref)",
+		"title": "A graph theory based generic risk assessment framework for internet of things (IoT)",
+		"URL": "https://ieeexplore.ieee.org/document/8384121/",
+		"author": [
+			{
+				"family": "Shivraj",
+				"given": "V. L."
+			},
+			{
+				"family": "Rajan",
+				"given": "M. A."
+			},
+			{
+				"family": "Balamuralidhar",
+				"given": "P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/IH3N3Q2C",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 5th Workshop on Middleware and Applications for the Internet of Things",
+		"DOI": "10.1145/3286719.3286723",
+		"event-place": "Rennes France",
+		"event-title": "Middleware '18: 19th International Middleware Conference",
+		"ISBN": "978-1-4503-6118-7",
+		"language": "en",
+		"page": "15-18",
+		"publisher": "ACM",
+		"publisher-place": "Rennes France",
+		"source": "DOI.org (Crossref)",
+		"title": "Towards automated privacy risk assessments in IoT systems",
+		"URL": "https://dl.acm.org/doi/10.1145/3286719.3286723",
+		"author": [
+			{
+				"family": "Markovic",
+				"given": "Milan"
+			},
+			{
+				"family": "Asif",
+				"given": "Waqar"
+			},
+			{
+				"family": "Corsar",
+				"given": "David"
+			},
+			{
+				"family": "Jacobs",
+				"given": "Naomi"
+			},
+			{
+				"family": "Edwards",
+				"given": "Peter"
+			},
+			{
+				"family": "Rajarajan",
+				"given": "Muttukrishnan"
+			},
+			{
+				"family": "Cottrill",
+				"given": "Caitlin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/RF29CGPT",
+		"type": "article-journal",
+		"container-title": "IEEE Wireless Communications",
+		"DOI": "10.1109/MWC.2017.1800094",
+		"ISSN": "1536-1284, 1558-0687",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Wireless Commun.",
+		"page": "68-76",
+		"source": "DOI.org (Crossref)",
+		"title": "Distributed Data Privacy Preservation in IoT Applications",
+		"URL": "https://ieeexplore.ieee.org/document/8600780/",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Du",
+				"given": "Jun"
+			},
+			{
+				"family": "Jiang",
+				"given": "Chunxiao"
+			},
+			{
+				"family": "Gelenbe",
+				"given": "Erol"
+			},
+			{
+				"family": "Xu",
+				"given": "Lei"
+			},
+			{
+				"family": "Li",
+				"given": "Jianhua"
+			},
+			{
+				"family": "Ren",
+				"given": "Yong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/QHA3LPL4",
+		"type": "paper-conference",
+		"container-title": "2019 Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS)",
+		"DOI": "10.1109/IOTSMS48152.2019.8939260",
+		"event-place": "Granada, Spain",
+		"event-title": "2019 Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS)",
+		"ISBN": "978-1-72812-949-5",
+		"page": "110-115",
+		"publisher": "IEEE",
+		"publisher-place": "Granada, Spain",
+		"source": "DOI.org (Crossref)",
+		"title": "Semantic Modelling of Plans and Execution Traces for Enhancing Transparency of IoT Systems",
+		"URL": "https://ieeexplore.ieee.org/document/8939260/",
+		"author": [
+			{
+				"family": "Markovic",
+				"given": "Milan"
+			},
+			{
+				"family": "Garijo",
+				"given": "Daniel"
+			},
+			{
+				"family": "Edwards",
+				"given": "Peter"
+			},
+			{
+				"family": "Vasconcelos",
+				"given": "Wamberto"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/BDJRCP5Y",
+		"type": "article-journal",
+		"abstract": "Privacy and security are among the significant challenges of the Internet of Things (IoT). Improper device updates, lack of efficient and robust security protocols, user unawareness, and famous active device monitoring are among the challenges that IoT is facing. In this work, we are exploring the background of IoT systems and security measures, and identifying (a) different security and privacy issues, (b) approaches used to secure the components of IoT-based environments and systems, (c) existing security solutions, and (d) the best privacy models necessary and suitable for different layers of IoT driven applications. In this work, we proposed a new IoT layered model: generic and stretched with the privacy and security components and layers identification. The proposed cloud/edge supported IoT system is implemented and evaluated. The lower layer represented by the IoT nodes generated from the Amazon Web Service (AWS) as Virtual Machines. The middle layer (edge) implemented as a Raspberry Pi 4 hardware kit with support of the Greengrass Edge Environment in AWS. We used the cloud-enabled IoT environment in AWS to implement the top layer (the cloud). The security protocols and critical management sessions were between each of these layers to ensure the privacy of the users’ information. We implemented security certificates to allow data transfer between the layers of the proposed cloud/edge enabled IoT model. Not only is the proposed system model eliminating possible security vulnerabilities, but it also can be used along with the best security techniques to countermeasure the cybersecurity threats facing each one of the layers; cloud, edge, and IoT.",
+		"container-title": "Applied Sciences",
+		"DOI": "10.3390/app10124102",
+		"ISSN": "2076-3417",
+		"issue": "12",
+		"journalAbbreviation": "Applied Sciences",
+		"language": "en",
+		"page": "4102",
+		"source": "DOI.org (Crossref)",
+		"title": "IoT Privacy and Security: Challenges and Solutions",
+		"title-short": "IoT Privacy and Security",
+		"URL": "https://www.mdpi.com/2076-3417/10/12/4102",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Tawalbeh",
+				"given": "Lo’ai"
+			},
+			{
+				"family": "Muheidat",
+				"given": "Fadi"
+			},
+			{
+				"family": "Tawalbeh",
+				"given": "Mais"
+			},
+			{
+				"family": "Quwaider",
+				"given": "Muhannad"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/VVJWYQXY",
+		"type": "article-journal",
+		"abstract": "Privacy issues have plagued the rapid proliferation of the Internet of Things (IoT) devices. Resource-constrained IoT devices often obscure transparency for end-users. A lack of transparency and control complicates user trust in IoT. Additionally, a growing history of misuse and abuse exists in IoT. Notably, a smart TV has periodically scanned and collected users’ private information without consent, while power companies have adjusted the temperature of smart thermostats during heat waves. Due to a hybrid of distributed ecosystems within IoT, users cannot easily implement traditional access control over their devices as data flows within different nodes for storage and processing. A misunderstanding of IoT privacy issues and growing privacy fatigue by consumers further complicate this problem. The usability of privacy-preserving mechanisms and tools offers promise but relies on accurately capturing privacy preferences. In this dissertation, we demonstrate how we tackled the aforementioned challenges through understanding users’ privacy choices and providing the necessary means to help them enforce their privacy. First, we replicate a previous study to examine users’ privacy expectations and preferences for IoT devices. We specifically focus our effort on examining users’ feelings regarding their data collection in an IoT-based environment. Our work analyzes different contributing factors that impact users’ privacy decisions about data collection. Our analysis supports previous work that has argued users’ perceived benefit is an essential factor and motivating favor. In contrast to the previous study, we identified the workplace has now morphed into a sensitive location where users are uncomfortable sharing their private information. Second, we propose MQTT-based Privacy Orchestrator (MPO) to implement traditional access control on IoT devices. MPOenforces privacy preferences by implementing access control at an MQTT broker. Through MPO implementation, we demonstrate a practical and scalable solution to facilitate users’ privacy preferences and enforce access control for MQTT-based devices. Third, we examine the usability of MPO to ensure that users have a usable tool they can utilize to enforce their privacy choices. We analyze MPO’s ability to mitigate the privacy fatigue phenomenon.",
+		"language": "en_US",
+		"license": "Copyright held by author",
+		"note": "Accepted: 2022-08-12T12:28:40Z",
+		"source": "repository.lib.fit.edu",
+		"title": "Preserving Users’ Privacy in IoT Systems Through Network-based Access Control",
+		"URL": "https://repository.lib.fit.edu/handle/11141/3552",
+		"author": [
+			{
+				"family": "Alhazmi",
+				"given": "Ahmed Khalid A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/HGH4UMGY",
+		"type": "chapter",
+		"container-title": "SDL 2017: Model-Driven Engineering for Future Internet",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-68014-9",
+		"note": "collection-title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-319-68015-6_5",
+		"page": "61-79",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "An Ontology-Based Approach for IoT Data Processing Using Semantic Rules",
+		"URL": "http://link.springer.com/10.1007/978-3-319-68015-6_5",
+		"volume": "10567",
+		"editor": [
+			{
+				"family": "Csöndes",
+				"given": "Tibor"
+			},
+			{
+				"family": "Kovács",
+				"given": "Gábor"
+			},
+			{
+				"family": "Réthy",
+				"given": "György"
+			}
+		],
+		"author": [
+			{
+				"family": "Bali",
+				"given": "Ahmed"
+			},
+			{
+				"family": "Al-Osta",
+				"given": "Mahmud"
+			},
+			{
+				"family": "Abdelouahed",
+				"given": "Gherbi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/HDXLWVDE",
+		"type": "paper-conference",
+		"container-title": "2014 IEEE Wireless Communications and Networking Conference Workshops (WCNCW)",
+		"DOI": "10.1109/WCNCW.2014.6934872",
+		"event-place": "Istanbul, Turkey",
+		"event-title": "2014 IEEE Wireless Communications and Networking Conference Workshops (WCNCW)",
+		"ISBN": "978-1-4799-3086-9",
+		"page": "122-127",
+		"publisher": "IEEE",
+		"publisher-place": "Istanbul, Turkey",
+		"source": "DOI.org (Crossref)",
+		"title": "RERUM: Building a reliable IoT upon privacy- and security- enabled smart objects",
+		"title-short": "RERUM",
+		"URL": "http://ieeexplore.ieee.org/document/6934872/",
+		"author": [
+			{
+				"family": "Pohls",
+				"given": "Henrich C."
+			},
+			{
+				"family": "Angelakis",
+				"given": "Vangelis"
+			},
+			{
+				"family": "Suppan",
+				"given": "Santiago"
+			},
+			{
+				"family": "Fischer",
+				"given": "Kai"
+			},
+			{
+				"family": "Oikonomou",
+				"given": "George"
+			},
+			{
+				"family": "Tragos",
+				"given": "Elias Z."
+			},
+			{
+				"literal": "Rodrigo Diaz Rodriguez"
+			},
+			{
+				"family": "Mouroutis",
+				"given": "Theodoros"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/WGR8MT7U",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 17th International Workshop on Mobile Computing Systems and Applications",
+		"DOI": "10.1145/2873587.2873600",
+		"event-place": "St. Augustine Florida USA",
+		"event-title": "HotMobile '16: The 17th International Workshop on Mobile Computing Systems and Applications",
+		"ISBN": "978-1-4503-4145-5",
+		"language": "en",
+		"page": "39-44",
+		"publisher": "ACM",
+		"publisher-place": "St. Augustine Florida USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Privacy Mediators: Helping IoT Cross the Chasm",
+		"title-short": "Privacy Mediators",
+		"URL": "https://dl.acm.org/doi/10.1145/2873587.2873600",
+		"author": [
+			{
+				"family": "Davies",
+				"given": "Nigel"
+			},
+			{
+				"family": "Taft",
+				"given": "Nina"
+			},
+			{
+				"family": "Satyanarayanan",
+				"given": "Mahadev"
+			},
+			{
+				"family": "Clinch",
+				"given": "Sarah"
+			},
+			{
+				"family": "Amos",
+				"given": "Brandon"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					2,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/WXIZW2L2",
+		"type": "article-journal",
+		"container-title": "International Journal of Smart Home",
+		"title": "Sentry@Home - Leveraging the smart home for privacy in pervasive computing",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Bagüés",
+				"given": "Susana"
+			},
+			{
+				"family": "Zeidler",
+				"given": "Andreas"
+			},
+			{
+				"family": "Fernández-Valdivielso",
+				"given": "Carlos"
+			},
+			{
+				"family": "Matias",
+				"given": "Ignacio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/XYWTFIZ5",
+		"type": "article-journal",
+		"container-title": "Fujitsu Sci. Tech. J",
+		"issue": "4",
+		"page": "52–60",
+		"title": "IoT security for utilization of big data: Mutual authentication technology and anonymization technology for positional data",
+		"volume": "52",
+		"author": [
+			{
+				"family": "Shinzaki",
+				"given": "Takashi"
+			},
+			{
+				"family": "Morikawa",
+				"given": "Ikuya"
+			},
+			{
+				"family": "Yamaoka",
+				"given": "Yuji"
+			},
+			{
+				"family": "Sakemi",
+				"given": "Yumi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/AIDPGNJK",
+		"type": "paper-conference",
+		"container-title": "2016 IEEE 13th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)",
+		"DOI": "10.1109/MASS.2016.049",
+		"event-place": "Brasilia, Brazil",
+		"event-title": "2016 IEEE 13th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)",
+		"ISBN": "978-1-5090-2833-7",
+		"page": "331-336",
+		"publisher": "IEEE",
+		"publisher-place": "Brasilia, Brazil",
+		"source": "DOI.org (Crossref)",
+		"title": "Toward Anonymizing IoT Data Streams via Partitioning",
+		"URL": "http://ieeexplore.ieee.org/document/7815043/",
+		"author": [
+			{
+				"family": "Otgonbayar",
+				"given": "Ankhbayar"
+			},
+			{
+				"family": "Pervez",
+				"given": "Zeeshan"
+			},
+			{
+				"family": "Dahal",
+				"given": "Keshav"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/87GS3UYP",
+		"type": "article-journal",
+		"abstract": "Security and privacy of users have become significant concerns due to the involvement of the Internet of Things (IoT) devices in numerous applications. Cyber threats are growing at an explosive pace making the existing security and privacy measures inadequate. Hence, everyone on the Internet is a product for hackers. Consequently, Machine Learning (ML) algorithms are used to produce accurate outputs from large complex databases, where the generated outputs can be used to predict and detect vulnerabilities in IoT-based systems. Furthermore, Blockchain (BC) techniques are becoming popular in modern IoT applications to solve security and privacy issues. Several studies have been conducted on either ML algorithms or BC techniques. However, these studies target either security or privacy issues using ML algorithms or BC techniques, thus posing a need for a combined survey on efforts made in recent years addressing both security and privacy issues using ML algorithms and BC techniques. In this article, we provide a summary of research efforts made in the past few years, from 2008 to 2019, addressing security and privacy issues using ML algorithms and BC techniques in the IoT domain. First, we discuss and categorize various security and privacy threats reported in the past 12 years in the IoT domain. We then classify the literature on security and privacy efforts based on ML algorithms and BC techniques in the IoT domain. Finally, we identify and illuminate several challenges and future research directions using ML algorithms and BC techniques to address security and privacy issues in the IoT domain.",
+		"container-title": "ACM Computing Surveys",
+		"DOI": "10.1145/3417987",
+		"ISSN": "0360-0300, 1557-7341",
+		"issue": "6",
+		"journalAbbreviation": "ACM Comput. Surv.",
+		"language": "en",
+		"page": "1-37",
+		"source": "DOI.org (Crossref)",
+		"title": "Security and Privacy in IoT Using Machine Learning and Blockchain: Threats and Countermeasures",
+		"title-short": "Security and Privacy in IoT Using Machine Learning and Blockchain",
+		"URL": "https://dl.acm.org/doi/10.1145/3417987",
+		"volume": "53",
+		"author": [
+			{
+				"family": "Waheed",
+				"given": "Nazar"
+			},
+			{
+				"family": "He",
+				"given": "Xiangjian"
+			},
+			{
+				"family": "Ikram",
+				"given": "Muhammad"
+			},
+			{
+				"family": "Usman",
+				"given": "Muhammad"
+			},
+			{
+				"family": "Hashmi",
+				"given": "Saad Sajid"
+			},
+			{
+				"family": "Usman",
+				"given": "Muhammad"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/E943VY85",
+		"type": "article-journal",
+		"abstract": "The integration of the Internet of Things (IoT) connects a number of intelligent devices with minimum human interference that can interact with one another. IoT is rapidly emerging in the areas of computer science. However, new security problems are posed by the cross-cutting design of the multidisciplinary elements and IoT systems involved in deploying such schemes. Ineffective is the implementation of security protocols, i.e., authentication, encryption, application security, and access network for IoT systems and their essential weaknesses in security. Current security approaches can also be improved to protect the IoT environment effectively. In recent years, deep learning (DL)/machine learning (ML) has progressed significantly in various critical implementations. Therefore, DL/ML methods are essential to turn IoT system protection from simply enabling safe contact between IoT systems to intelligence systems in security. This review aims to include an extensive analysis of ML systems and state-of-the-art developments in DL methods to improve enhanced IoT device protection methods. On the other hand, various new insights in machine and deep learning for IoT securities illustrate how it could help future research. IoT protection risks relating to emerging or essential threats are identified, as well as future IoT device attacks and possible threats associated with each surface. We then carefully analyze DL and ML IoT protection approaches and present each approach’s benefits, possibilities, and weaknesses. This review discusses a number of potential challenges and limitations. The future works, recommendations, and suggestions of DL/ML in IoT security are also included.",
+		"container-title": "Security and Communication Networks",
+		"DOI": "10.1155/2022/8951961",
+		"ISSN": "1939-0122, 1939-0114",
+		"journalAbbreviation": "Security and Communication Networks",
+		"language": "en",
+		"page": "1-41",
+		"source": "DOI.org (Crossref)",
+		"title": "Machine and Deep Learning for IoT Security and Privacy: Applications, Challenges, and Future Directions",
+		"title-short": "Machine and Deep Learning for IoT Security and Privacy",
+		"URL": "https://www.hindawi.com/journals/scn/2022/8951961/",
+		"volume": "2022",
+		"author": [
+			{
+				"family": "Bharati",
+				"given": "Subrato"
+			},
+			{
+				"family": "Podder",
+				"given": "Prajoy"
+			}
+		],
+		"editor": [
+			{
+				"family": "Xiong",
+				"given": "Jinbo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/37RUPEC4",
+		"type": "article-journal",
+		"container-title": "IEEE Internet of Things Journal",
+		"DOI": "10.1109/JIOT.2020.2967734",
+		"ISSN": "2327-4662, 2372-2541",
+		"issue": "5",
+		"journalAbbreviation": "IEEE Internet Things J.",
+		"page": "4505-4518",
+		"source": "DOI.org (Crossref)",
+		"title": "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics",
+		"URL": "https://ieeexplore.ieee.org/document/8962332/",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Osia",
+				"given": "Seyed Ali"
+			},
+			{
+				"family": "Shahin Shamsabadi",
+				"given": "Ali"
+			},
+			{
+				"family": "Sajadmanesh",
+				"given": "Sina"
+			},
+			{
+				"family": "Taheri",
+				"given": "Ali"
+			},
+			{
+				"family": "Katevas",
+				"given": "Kleomenis"
+			},
+			{
+				"family": "Rabiee",
+				"given": "Hamid R."
+			},
+			{
+				"family": "Lane",
+				"given": "Nicholas D."
+			},
+			{
+				"family": "Haddadi",
+				"given": "Hamed"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/U8TDAW7E",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Industrial Informatics",
+		"DOI": "10.1109/TII.2021.3117285",
+		"ISSN": "1551-3203, 1941-0050",
+		"issue": "7",
+		"journalAbbreviation": "IEEE Trans. Ind. Inf.",
+		"page": "4798-4807",
+		"source": "DOI.org (Crossref)",
+		"title": "Deep Learning-Based Privacy Preservation and Data Analytics for IoT Enabled Healthcare",
+		"URL": "https://ieeexplore.ieee.org/document/9565344/",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Bi",
+				"given": "Hongliang"
+			},
+			{
+				"family": "Liu",
+				"given": "Jiajia"
+			},
+			{
+				"family": "Kato",
+				"given": "Nei"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/WVBFGQWD",
+		"type": "paper-conference",
+		"container-title": "2019 Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS)",
+		"DOI": "10.1109/IOTSMS48152.2019.8939265",
+		"event-place": "Granada, Spain",
+		"event-title": "2019 Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS)",
+		"ISBN": "978-1-72812-949-5",
+		"page": "259-264",
+		"publisher": "IEEE",
+		"publisher-place": "Granada, Spain",
+		"source": "DOI.org (Crossref)",
+		"title": "User Privacy Risk Analysis For The Internet of Things",
+		"URL": "https://ieeexplore.ieee.org/document/8939265/",
+		"author": [
+			{
+				"family": "Aggarwal",
+				"given": "Akash"
+			},
+			{
+				"family": "Asif",
+				"given": "Waqar"
+			},
+			{
+				"family": "Azam",
+				"given": "Habibul"
+			},
+			{
+				"family": "Markovic",
+				"given": "Milan"
+			},
+			{
+				"family": "Rajarajan",
+				"given": "Muttukrishnan"
+			},
+			{
+				"family": "Edwards",
+				"given": "Peter"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/TX7G2QTR",
+		"type": "article-journal",
+		"container-title": "Computer Networks",
+		"DOI": "10.1016/j.comnet.2021.107819",
+		"ISSN": "13891286",
+		"journalAbbreviation": "Computer Networks",
+		"language": "en",
+		"page": "107819",
+		"source": "DOI.org (Crossref)",
+		"title": "SP2F: A secured privacy-preserving framework for smart agricultural Unmanned Aerial Vehicles",
+		"title-short": "SP2F",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S1389128621000086",
+		"volume": "187",
+		"author": [
+			{
+				"family": "Kumar",
+				"given": "Randhir"
+			},
+			{
+				"family": "Kumar",
+				"given": "Prabhat"
+			},
+			{
+				"family": "Tripathi",
+				"given": "Rakesh"
+			},
+			{
+				"family": "Gupta",
+				"given": "Govind P."
+			},
+			{
+				"family": "Gadekallu",
+				"given": "Thippa Reddy"
+			},
+			{
+				"family": "Srivastava",
+				"given": "Gautam"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/DG748Y3F",
+		"type": "article-journal",
+		"container-title": "IEEE Internet of Things Journal",
+		"DOI": "10.1109/JIOT.2019.2952146",
+		"ISSN": "2327-4662, 2372-2541",
+		"issue": "7",
+		"journalAbbreviation": "IEEE Internet Things J.",
+		"page": "5827-5842",
+		"source": "DOI.org (Crossref)",
+		"title": "Local Differential Privacy for Deep Learning",
+		"URL": "https://ieeexplore.ieee.org/document/8894030/",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Mahawaga Arachchige",
+				"given": "Pathum Chamikara"
+			},
+			{
+				"family": "Bertok",
+				"given": "Peter"
+			},
+			{
+				"family": "Khalil",
+				"given": "Ibrahim"
+			},
+			{
+				"family": "Liu",
+				"given": "Dongxi"
+			},
+			{
+				"family": "Camtepe",
+				"given": "Seyit"
+			},
+			{
+				"family": "Atiquzzaman",
+				"given": "Mohammed"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/U2Z46GN7",
+		"type": "article-journal",
+		"container-title": "Proceedings of the IEEE",
+		"DOI": "10.1109/JPROC.2019.2918951",
+		"ISSN": "0018-9219, 1558-2256",
+		"issue": "8",
+		"journalAbbreviation": "Proc. IEEE",
+		"page": "1738-1762",
+		"source": "DOI.org (Crossref)",
+		"title": "Edge Intelligence: Paving the Last Mile of Artificial Intelligence With Edge Computing",
+		"title-short": "Edge Intelligence",
+		"URL": "https://ieeexplore.ieee.org/document/8736011/",
+		"volume": "107",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "Zhi"
+			},
+			{
+				"family": "Chen",
+				"given": "Xu"
+			},
+			{
+				"family": "Li",
+				"given": "En"
+			},
+			{
+				"family": "Zeng",
+				"given": "Liekang"
+			},
+			{
+				"family": "Luo",
+				"given": "Ke"
+			},
+			{
+				"family": "Zhang",
+				"given": "Junshan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/Z5Y5VJYK",
+		"type": "article-journal",
+		"container-title": "IEEE Journal of Biomedical and Health Informatics",
+		"DOI": "10.1109/JBHI.2016.2548248",
+		"ISSN": "2168-2194, 2168-2208",
+		"issue": "3",
+		"journalAbbreviation": "IEEE J. Biomed. Health Inform.",
+		"page": "838-850",
+		"source": "DOI.org (Crossref)",
+		"title": "Efficient and Privacy-Preserving Online Medical Prediagnosis Framework Using Nonlinear SVM",
+		"URL": "http://ieeexplore.ieee.org/document/7442772/",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Zhu",
+				"given": "Hui"
+			},
+			{
+				"family": "Liu",
+				"given": "Xiaoxia"
+			},
+			{
+				"family": "Lu",
+				"given": "Rongxing"
+			},
+			{
+				"family": "Li",
+				"given": "Hui"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/55I5Q3QZ",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Parallel and Distributed Systems",
+		"DOI": "10.1109/TPDS.2018.2809624",
+		"ISSN": "1045-9219, 1558-2183, 2161-9883",
+		"issue": "8",
+		"journalAbbreviation": "IEEE Trans. Parallel Distrib. Syst.",
+		"page": "1808-1822",
+		"source": "DOI.org (Crossref)",
+		"title": "Preserving Model Privacy for Machine Learning in Distributed Systems",
+		"URL": "https://ieeexplore.ieee.org/document/8302601/",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Jia",
+				"given": "Qi"
+			},
+			{
+				"family": "Guo",
+				"given": "Linke"
+			},
+			{
+				"family": "Jin",
+				"given": "Zhanpeng"
+			},
+			{
+				"family": "Fang",
+				"given": "Yuguang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/DYAKECBS",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the Thirteenth ACM International Conference on Future Energy Systems",
+		"DOI": "10.1145/3538637.3538845",
+		"event-place": "Virtual Event",
+		"event-title": "e-Energy '22: The Thirteenth ACM International Conference on Future Energy Systems",
+		"ISBN": "978-1-4503-9397-3",
+		"language": "en",
+		"page": "114-126",
+		"publisher": "ACM",
+		"publisher-place": "Virtual Event",
+		"source": "DOI.org (Crossref)",
+		"title": "Federated office plug-load identification for building management systems",
+		"URL": "https://dl.acm.org/doi/10.1145/3538637.3538845",
+		"author": [
+			{
+				"family": "Schwermer",
+				"given": "René"
+			},
+			{
+				"family": "Buchberger",
+				"given": "Jonas"
+			},
+			{
+				"family": "Mayer",
+				"given": "Ruben"
+			},
+			{
+				"family": "Jacobsen",
+				"given": "Hans-Arno"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					6,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/Z5868SX7",
+		"type": "article-journal",
+		"container-title": "Future Generation Computer Systems",
+		"DOI": "10.1016/j.future.2015.09.016",
+		"ISSN": "0167739X",
+		"journalAbbreviation": "Future Generation Computer Systems",
+		"language": "en",
+		"page": "701-718",
+		"source": "DOI.org (Crossref)",
+		"title": "A comprehensive approach to privacy in the cloud-based Internet of Things",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0167739X15002964",
+		"volume": "56",
+		"author": [
+			{
+				"family": "Henze",
+				"given": "Martin"
+			},
+			{
+				"family": "Hermerschmidt",
+				"given": "Lars"
+			},
+			{
+				"family": "Kerpen",
+				"given": "Daniel"
+			},
+			{
+				"family": "Häußling",
+				"given": "Roger"
+			},
+			{
+				"family": "Rumpe",
+				"given": "Bernhard"
+			},
+			{
+				"family": "Wehrle",
+				"given": "Klaus"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/ECA52NR7",
+		"type": "chapter",
+		"abstract": "Abstract\n            Using networks of Internet-connected sensors, the Internet of Things (IoT) makes technologies “smart” by enabling automation, personalization, and remote control. At the same time, IoT technologies introduce challenging privacy issues that may frustrate their widespread adoption. This chapter addresses the privacy challenges of IoT technologies from a user-centered perspective and demonstrates these prevalent issues in the domains of wearables (e.g., fitness trackers), household technologies (e.g., smart voice assistants), and devices that exist in the public domain (e.g., security cameras). The chapter ends with a comprehensive list of solutions and guidelines that can help researchers and practitioners introduce usable privacy to the domain of IoT.",
+		"container-title": "Modern Socio-Technical Perspectives on Privacy",
+		"event-place": "Cham",
+		"ISBN": "978-3-030-82785-4",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-030-82786-1_11",
+		"page": "233-264",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "Privacy and the Internet of Things",
+		"URL": "https://link.springer.com/10.1007/978-3-030-82786-1_11",
+		"editor": [
+			{
+				"family": "Knijnenburg",
+				"given": "Bart P."
+			},
+			{
+				"family": "Page",
+				"given": "Xinru"
+			},
+			{
+				"family": "Wisniewski",
+				"given": "Pamela"
+			},
+			{
+				"family": "Lipford",
+				"given": "Heather Richter"
+			},
+			{
+				"family": "Proferes",
+				"given": "Nicholas"
+			},
+			{
+				"family": "Romano",
+				"given": "Jennifer"
+			}
+		],
+		"author": [
+			{
+				"family": "Lipford",
+				"given": "Heather Richter"
+			},
+			{
+				"family": "Tabassum",
+				"given": "Madiha"
+			},
+			{
+				"family": "Bahirat",
+				"given": "Paritosh"
+			},
+			{
+				"family": "Yao",
+				"given": "Yaxing"
+			},
+			{
+				"family": "Knijnenburg",
+				"given": "Bart P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/ZD8P9HSZ",
+		"type": "article-journal",
+		"container-title": "Information Fusion",
+		"DOI": "10.1016/j.inffus.2018.12.001",
+		"ISSN": "15662535",
+		"journalAbbreviation": "Information Fusion",
+		"language": "en",
+		"page": "129-144",
+		"source": "DOI.org (Crossref)",
+		"title": "A survey on data fusion in internet of things: Towards secure and privacy-preserving fusion",
+		"title-short": "A survey on data fusion in internet of things",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S1566253518304731",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Ding",
+				"given": "Wenxiu"
+			},
+			{
+				"family": "Jing",
+				"given": "Xuyang"
+			},
+			{
+				"family": "Yan",
+				"given": "Zheng"
+			},
+			{
+				"family": "Yang",
+				"given": "Laurence T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/XU97L58C",
+		"type": "article-journal",
+		"container-title": "IEEE Access",
+		"DOI": "10.1109/ACCESS.2017.2689040",
+		"ISSN": "2169-3536",
+		"journalAbbreviation": "IEEE Access",
+		"page": "5247-5261",
+		"source": "DOI.org (Crossref)",
+		"title": "Big IoT Data Analytics: Architecture, Opportunities, and Open Research Challenges",
+		"title-short": "Big IoT Data Analytics",
+		"URL": "http://ieeexplore.ieee.org/document/7888916/",
+		"volume": "5",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/AGRHARKS",
+		"type": "chapter",
+		"container-title": "Computer Security – ESORICS 2017",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-66398-2",
+		"language": "en",
+		"note": "collection-title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-319-66399-9_18",
+		"page": "324-343",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "Privacy Implications of Room Climate Data",
+		"URL": "https://link.springer.com/10.1007/978-3-319-66399-9_18",
+		"volume": "10493",
+		"editor": [
+			{
+				"family": "Foley",
+				"given": "Simon N."
+			},
+			{
+				"family": "Gollmann",
+				"given": "Dieter"
+			},
+			{
+				"family": "Snekkenes",
+				"given": "Einar"
+			}
+		],
+		"author": [
+			{
+				"family": "Morgner",
+				"given": "Philipp"
+			},
+			{
+				"family": "Müller",
+				"given": "Christian"
+			},
+			{
+				"family": "Ring",
+				"given": "Matthias"
+			},
+			{
+				"family": "Eskofier",
+				"given": "Björn"
+			},
+			{
+				"family": "Riess",
+				"given": "Christian"
+			},
+			{
+				"family": "Armknecht",
+				"given": "Frederik"
+			},
+			{
+				"family": "Benenson",
+				"given": "Zinaida"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/2V9HRLBE",
+		"type": "article-journal",
+		"abstract": "The Internet of Things (IoT) is a network of Internet-enabled devices that can sense, communicate, and react to changes in their environment. Billions of these computing devices are connected to the Internet to exchange data between themselves and/or their infrastructure. IoT promises to enable a plethora of smart services in almost every aspect of our daily interactions and improve the overall quality of life. However, with the increasing wide adoption of IoT, come significant privacy concerns to lose control of how our data is collected and shared with others. As such, privacy is a core requirement in any IoT ecosystem and is a major concern that inhibits its widespread user adoption. The ultimate source of user discomfort is the lack of control over personal raw data that is directly streamed from sensors to the outside world. In this survey, we review existing research and proposed solutions to rising privacy concerns from a multipoint of view to identify the risks and mitigations. First, we provide an evaluation of privacy issues and concerns in IoT systems due to resource constraints. Second, we describe the proposed IoT solutions that embrace a variety of privacy concerns such as identification, tracking, monitoring, and profiling. Lastly, we discuss the mechanisms and architectures for protecting IoT data in case of mobility at the device layer, infrastructure/platform layer, and application layer.",
+		"container-title": "Wireless Communications and Mobile Computing",
+		"DOI": "10.1155/2018/1032761",
+		"ISSN": "1530-8669, 1530-8677",
+		"journalAbbreviation": "Wireless Communications and Mobile Computing",
+		"language": "en",
+		"page": "1-15",
+		"source": "DOI.org (Crossref)",
+		"title": "Towards Privacy Preserving IoT Environments: A Survey",
+		"title-short": "Towards Privacy Preserving IoT Environments",
+		"URL": "https://www.hindawi.com/journals/wcmc/2018/1032761/",
+		"volume": "2018",
+		"author": [
+			{
+				"family": "Seliem",
+				"given": "Mohamed"
+			},
+			{
+				"family": "Elgazzar",
+				"given": "Khalid"
+			},
+			{
+				"family": "Khalil",
+				"given": "Kasem"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/VCTIPWD3",
+		"type": "paper-conference",
+		"container-title": "2013 IEEE Security and Privacy Workshops",
+		"DOI": "10.1109/SPW.2013.31",
+		"event-place": "San Francisco, CA",
+		"event-title": "2013 IEEE CS Security and Privacy Workshops (SPW2013)",
+		"ISBN": "978-1-4799-0458-7",
+		"page": "18-22",
+		"publisher": "IEEE",
+		"publisher-place": "San Francisco, CA",
+		"source": "DOI.org (Crossref)",
+		"title": "The Cloud Needs Cross-Layer Data Handling Annotations",
+		"URL": "http://ieeexplore.ieee.org/document/6565223/",
+		"author": [
+			{
+				"family": "Henze",
+				"given": "Martin"
+			},
+			{
+				"family": "Hummen",
+				"given": "Rene"
+			},
+			{
+				"family": "Wehrle",
+				"given": "Klaus"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/E5Q4H5RL",
+		"type": "paper-conference",
+		"container-title": "CASCON",
+		"DOI": "10.475/123_4",
+		"page": "19–27",
+		"title": "A framework to extract personalized behavioural patterns of user's IoT devices data.",
+		"author": [
+			{
+				"family": "Venkatesh",
+				"given": "Pradeep K"
+			},
+			{
+				"family": "Costa",
+				"given": "Daniel Alencar",
+				"non-dropping-particle": "da"
+			},
+			{
+				"family": "Zou",
+				"given": "Ying"
+			},
+			{
+				"family": "Ng",
+				"given": "Joanna W"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/DD5WWX9E",
+		"type": "article-journal",
+		"container-title": "IEEE Access",
+		"DOI": "10.1109/ACCESS.2020.3016937",
+		"ISSN": "2169-3536",
+		"journalAbbreviation": "IEEE Access",
+		"page": "152351-152366",
+		"source": "DOI.org (Crossref)",
+		"title": "Security and Privacy in the Industrial Internet of Things: Current Standards and Future Challenges",
+		"title-short": "Security and Privacy in the Industrial Internet of Things",
+		"URL": "https://ieeexplore.ieee.org/document/9169653/",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Gebremichael",
+				"given": "Teklay"
+			},
+			{
+				"family": "Ledwaba",
+				"given": "Lehlogonolo P. I."
+			},
+			{
+				"family": "Eldefrawy",
+				"given": "Mohamed H."
+			},
+			{
+				"family": "Hancke",
+				"given": "Gerhard P."
+			},
+			{
+				"family": "Pereira",
+				"given": "Nuno"
+			},
+			{
+				"family": "Gidlund",
+				"given": "Mikael"
+			},
+			{
+				"family": "Akerberg",
+				"given": "Johan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/L6P3LLRI",
+		"type": "article-journal",
+		"abstract": "The amalgamation of Medical Internet of Things (MIoT) devices into everyday life is influencing the landscape of modern medicine. The implementation of these devices potentially alleviates the pressures and physical demands of healthcare systems through the remote monitoring of patients. However, there are concerns that the emergence of MIoT ecosystems is introducing an assortment of security and privacy challenges. While previous research has shown that multiple vulnerabilities exist within MIoT devices, minimal research investigates potential data leakage from MIoT devices through hijacking attacks.",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Knock! Knock! Who is There? Investigating Data Leakage from a Medical Internet of Things Hijacking Attack",
+		"URL": "flynn_knock_2020",
+		"author": [
+			{
+				"family": "Flynn",
+				"given": "Talon"
+			},
+			{
+				"family": "Grispos",
+				"given": "George"
+			},
+			{
+				"family": "Mahoney",
+				"given": "William"
+			},
+			{
+				"family": "Glisson",
+				"given": "William Bradley"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/RPRD8L9A",
+		"type": "chapter",
+		"container-title": "Internet of Things, Smart Computing and Technology: A Roadmap Ahead",
+		"event-place": "Cham",
+		"ISBN": "978-3-030-39046-4",
+		"language": "en",
+		"note": "collection-title: Studies in Systems, Decision and Control\nDOI: 10.1007/978-3-030-39047-1_13",
+		"page": "283-303",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "Toward Smart and Secure IoT Based Healthcare System",
+		"URL": "http://link.springer.com/10.1007/978-3-030-39047-1_13",
+		"volume": "266",
+		"editor": [
+			{
+				"family": "Dey",
+				"given": "Nilanjan"
+			},
+			{
+				"family": "Mahalle",
+				"given": "Parikshit. N."
+			},
+			{
+				"family": "Shafi",
+				"given": "Pathan Mohd"
+			},
+			{
+				"family": "Kimabahune",
+				"given": "Vinod V."
+			},
+			{
+				"family": "Hassanien",
+				"given": "Aboul Ella"
+			}
+		],
+		"author": [
+			{
+				"family": "Ambarkar",
+				"given": "Smita Sanjay"
+			},
+			{
+				"family": "Shekokar",
+				"given": "Narendra"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/UZUKVHFE",
+		"type": "article-journal",
+		"container-title": "SSRN Electronic Journal",
+		"DOI": "10.2139/ssrn.3350615",
+		"ISSN": "1556-5068",
+		"journalAbbreviation": "SSRN Journal",
+		"language": "en",
+		"source": "DOI.org (Crossref)",
+		"title": "‘Internet of Things’: How Abuse is Getting Smarter",
+		"title-short": "‘Internet of Things’",
+		"URL": "https://www.ssrn.com/abstract=3350615",
+		"author": [
+			{
+				"family": "Lopez-Neira",
+				"given": "Isabel"
+			},
+			{
+				"family": "Patel",
+				"given": "Trupti"
+			},
+			{
+				"family": "Parkin",
+				"given": "Simon"
+			},
+			{
+				"family": "Danezis",
+				"given": "George"
+			},
+			{
+				"family": "Tanczer",
+				"given": "Leonie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/D8T95E5M",
+		"type": "article-journal",
+		"container-title": "IEEE Security & Privacy",
+		"DOI": "10.1109/MSEC.2019.2924167",
+		"ISSN": "1540-7993, 1558-4046",
+		"issue": "5",
+		"journalAbbreviation": "IEEE Secur. Privacy",
+		"page": "10-21",
+		"source": "DOI.org (Crossref)",
+		"title": "Stealing, Spying, and Abusing: Consequences of Attacks on Internet of Things Devices",
+		"title-short": "Stealing, Spying, and Abusing",
+		"URL": "https://ieeexplore.ieee.org/document/8786118/",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Valente",
+				"given": "Junia"
+			},
+			{
+				"family": "Wynn",
+				"given": "Matthew A."
+			},
+			{
+				"family": "Cardenas",
+				"given": "Alvaro A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/6WDR4SZM",
+		"type": "chapter",
+		"container-title": "The Emerald International Handbook of Technology-Facilitated Violence and Abuse",
+		"ISBN": "978-1-83982-849-2",
+		"note": "DOI: 10.1108/978-1-83982-848-520211049",
+		"page": "663-688",
+		"publisher": "Emerald Publishing Limited",
+		"source": "DOI.org (Crossref)",
+		"title": "Threat Modeling Intimate Partner Violence: Tech Abuse as a Cybersecurity Challenge in the Internet of Things",
+		"title-short": "Threat Modeling Intimate Partner Violence",
+		"URL": "https://www.emerald.com/insight/content/doi/10.1108/978-1-83982-848-520211049/full/html",
+		"editor": [
+			{
+				"family": "Bailey",
+				"given": "Jane"
+			},
+			{
+				"family": "Flynn",
+				"given": "Asher"
+			},
+			{
+				"family": "Henry",
+				"given": "Nicola"
+			}
+		],
+		"author": [
+			{
+				"family": "Slupska",
+				"given": "Julia"
+			},
+			{
+				"family": "Tanczer",
+				"given": "Leonie Maria"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/UQVJM8YK",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2019 on Designing Interactive Systems Conference",
+		"DOI": "10.1145/3322276.3322366",
+		"event-place": "San Diego CA USA",
+		"event-title": "DIS '19: Designing Interactive Systems Conference 2019",
+		"ISBN": "978-1-4503-5850-7",
+		"language": "en",
+		"page": "527-539",
+		"publisher": "ACM",
+		"publisher-place": "San Diego CA USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Anticipating Smart Home Security and Privacy Threats with Survivors of Intimate Partner Abuse",
+		"URL": "https://dl.acm.org/doi/10.1145/3322276.3322366",
+		"author": [
+			{
+				"family": "Leitão",
+				"given": "Roxanne"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/3JB4SR4S",
+		"type": "webpage",
+		"title": "Texas Power Companies Remotely Raise Temps Amid Energy Shortage",
+		"URL": "https://www.dailydot.com/debug/texas-remote-controlled-smart-thermostats/",
+		"author": [
+			{
+				"family": "Thalen",
+				"given": "Mikael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/URLH64VW",
+		"type": "webpage",
+		"abstract": "According to the South China Morning Post, a user of the Chinese developer forum V2EX published a post last week detailing that his Skyworth smart TV was scanning data every 10 minutes and gathered information such as the Wifi network the TV was connected to, the user's IP address and device names.",
+		"container-title": "Newsweek",
+		"language": "en",
+		"note": "section: World",
+		"title": "Millions of Chinese Smart TVs Scanned WiFi Every 10 Minutes",
+		"URL": "https://www.newsweek.com/millions-chinese-smart-tvs-scanned-wifi-every-10-minutes-sent-personal-data-company-1588322",
+		"author": [
+			{
+				"family": "Impelli",
+				"given": "Matthew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/KSN4SY5M",
+		"type": "paper-conference",
+		"container-title": "2015 IEEE International Conference on Communications (ICC)",
+		"DOI": "10.1109/ICC.2015.7248377",
+		"event-place": "London",
+		"event-title": "2015 IEEE International Conference on Signal Processing for Communications (ICC)",
+		"ISBN": "978-1-4673-6432-4",
+		"page": "536-541",
+		"publisher": "IEEE",
+		"publisher-place": "London",
+		"source": "DOI.org (Crossref)",
+		"title": "Privacy for IoT: Involuntary privacy enablement for smart energy systems",
+		"title-short": "Privacy for IoT",
+		"URL": "http://ieeexplore.ieee.org/document/7248377/",
+		"author": [
+			{
+				"family": "Ukil",
+				"given": "Arijit"
+			},
+			{
+				"family": "Bandyopadhyay",
+				"given": "Soma"
+			},
+			{
+				"family": "Pal",
+				"given": "Arpan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/YFMF7IVN",
+		"type": "article-journal",
+		"container-title": "Knowledge and Information Systems",
+		"DOI": "10.1007/s10115-016-0987-z",
+		"ISSN": "0219-1377, 0219-3116",
+		"issue": "2",
+		"journalAbbreviation": "Knowl Inf Syst",
+		"language": "en",
+		"page": "339-367",
+		"source": "DOI.org (Crossref)",
+		"title": "A survey of methods for time series change point detection",
+		"URL": "http://link.springer.com/10.1007/s10115-016-0987-z",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Aminikhanghahi",
+				"given": "Samaneh"
+			},
+			{
+				"family": "Cook",
+				"given": "Diane J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/5ZJN5RVS",
+		"type": "article-journal",
+		"abstract": "Recent advances in technology have brought major breakthroughs in data collection, enabling a large amount of data to be gathered over time and thus generating time series. Mining this data has become an important task for researchers and practitioners in the past few years, including the detection of outliers or anomalies that may represent errors or events of interest. This review aims to provide a structured and comprehensive state-of-the-art on unsupervised outlier detection techniques in the context of time series. To this end, a taxonomy is presented based on the main aspects that characterize an outlier detection technique.",
+		"container-title": "ACM Computing Surveys",
+		"DOI": "10.1145/3444690",
+		"ISSN": "0360-0300, 1557-7341",
+		"issue": "3",
+		"journalAbbreviation": "ACM Comput. Surv.",
+		"language": "en",
+		"page": "1-33",
+		"source": "DOI.org (Crossref)",
+		"title": "A Review on Outlier/Anomaly Detection in Time Series Data",
+		"URL": "https://dl.acm.org/doi/10.1145/3444690",
+		"volume": "54",
+		"author": [
+			{
+				"family": "Blázquez-García",
+				"given": "Ane"
+			},
+			{
+				"family": "Conde",
+				"given": "Angel"
+			},
+			{
+				"family": "Mori",
+				"given": "Usue"
+			},
+			{
+				"family": "Lozano",
+				"given": "Jose A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/7TELRCBI",
+		"type": "article-journal",
+		"container-title": "IEEE Internet of Things Journal",
+		"DOI": "10.1109/JIOT.2019.2958185",
+		"ISSN": "2327-4662, 2372-2541",
+		"issue": "7",
+		"journalAbbreviation": "IEEE Internet Things J.",
+		"page": "6481-6494",
+		"source": "DOI.org (Crossref)",
+		"title": "Anomaly Detection for IoT Time-Series Data: A Survey",
+		"title-short": "Anomaly Detection for IoT Time-Series Data",
+		"URL": "https://ieeexplore.ieee.org/document/8926446/",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Cook",
+				"given": "Andrew A."
+			},
+			{
+				"family": "Misirli",
+				"given": "Goksel"
+			},
+			{
+				"family": "Fan",
+				"given": "Zhong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/FECMWA35",
+		"type": "article-journal",
+		"abstract": "Detecting anomalous subsequences in time series data is an important task in areas ranging from manufacturing processes over finance applications to health care monitoring. An anomaly can indicate important events, such as production faults, delivery bottlenecks, system defects, or heart flicker, and is therefore of central interest. Because time series are often large and exhibit complex patterns, data scientists have developed various specialized algorithms for the automatic detection of such anomalous patterns. The number and variety of anomaly detection algorithms has grown significantly in the past and, because many of these solutions have been developed independently and by different research communities, there is no comprehensive study that systematically evaluates and compares the different approaches. For this reason, choosing the best detection technique for a given anomaly detection task is a difficult challenge.\n            This comprehensive, scientific study carefully evaluates most state-of-the-art anomaly detection algorithms. We collected and re-implemented 71 anomaly detection algorithms from different domains and evaluated them on 976 time series datasets. The algorithms have been selected from different algorithm families and detection approaches to represent the entire spectrum of anomaly detection techniques. In the paper, we provide a concise overview of the techniques and their commonalities; we evaluate their individual strengths and weaknesses and, thereby, consider factors, such as effectiveness, efficiency, and robustness. Our experimental results should ease the algorithm selection problem and open up new research directions.",
+		"container-title": "Proceedings of the VLDB Endowment",
+		"DOI": "10.14778/3538598.3538602",
+		"ISSN": "2150-8097",
+		"issue": "9",
+		"journalAbbreviation": "Proc. VLDB Endow.",
+		"language": "en",
+		"page": "1779-1797",
+		"source": "DOI.org (Crossref)",
+		"title": "Anomaly detection in time series: a comprehensive evaluation",
+		"title-short": "Anomaly detection in time series",
+		"URL": "https://dl.acm.org/doi/10.14778/3538598.3538602",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Schmidl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Wenig",
+				"given": "Phillip"
+			},
+			{
+				"family": "Papenbrock",
+				"given": "Thorsten"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/HUBSXRAB",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security",
+		"DOI": "10.1145/3133956.3134015",
+		"event-place": "Dallas Texas USA",
+		"event-title": "CCS '17: 2017 ACM SIGSAC Conference on Computer and Communications Security",
+		"ISBN": "978-1-4503-4946-8",
+		"language": "en",
+		"page": "1285-1298",
+		"publisher": "ACM",
+		"publisher-place": "Dallas Texas USA",
+		"source": "DOI.org (Crossref)",
+		"title": "DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning",
+		"title-short": "DeepLog",
+		"URL": "https://dl.acm.org/doi/10.1145/3133956.3134015",
+		"author": [
+			{
+				"family": "Du",
+				"given": "Min"
+			},
+			{
+				"family": "Li",
+				"given": "Feifei"
+			},
+			{
+				"family": "Zheng",
+				"given": "Guineng"
+			},
+			{
+				"family": "Srikumar",
+				"given": "Vivek"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/MFAYU4DM",
+		"type": "article-journal",
+		"container-title": "Pattern Recognition Letters",
+		"DOI": "10.1016/j.patrec.2014.01.008",
+		"ISSN": "01678655",
+		"journalAbbreviation": "Pattern Recognition Letters",
+		"language": "en",
+		"page": "11-24",
+		"source": "DOI.org (Crossref)",
+		"title": "A review of unsupervised feature learning and deep learning for time-series modeling",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0167865514000221",
+		"volume": "42",
+		"author": [
+			{
+				"family": "Längkvist",
+				"given": "Martin"
+			},
+			{
+				"family": "Karlsson",
+				"given": "Lars"
+			},
+			{
+				"family": "Loutfi",
+				"given": "Amy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/PDGRBD78",
+		"type": "paper-conference",
+		"container-title": "PES T&D 2012",
+		"DOI": "10.1109/TDC.2012.6281659",
+		"event-place": "Orlando, FL",
+		"event-title": "2012 IEEE/PES Transmission and Distribution Conference and Exposition (T&D)",
+		"ISBN": "978-1-4673-1934-8",
+		"page": "1-6",
+		"publisher": "IEEE",
+		"publisher-place": "Orlando, FL",
+		"source": "DOI.org (Crossref)",
+		"title": "Outliers' detection and filling algorithms for smart metering centers",
+		"URL": "https://ieeexplore.ieee.org/document/6281659/",
+		"author": [
+			{
+				"family": "Nascimento",
+				"given": "Ricardo Mion",
+				"non-dropping-particle": "do"
+			},
+			{
+				"family": "Oening",
+				"given": "Ana Paula"
+			},
+			{
+				"family": "Marcilio",
+				"given": "Debora Cintia"
+			},
+			{
+				"family": "Aoki",
+				"given": "Alexandre Rasi"
+			},
+			{
+				"family": "Paula Rocha",
+				"given": "Eloy",
+				"non-dropping-particle": "de"
+			},
+			{
+				"family": "Schiochet",
+				"given": "Jefferson Marcelo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/V5BBV4I7",
+		"type": "article-journal",
+		"abstract": "Given a long list of anomaly detection algorithms developed in the last few decades, how do they perform with regard to (i) varying levels of supervision, (ii) different types of anomalies, and (iii) noisy and corrupted data? In this work, we answer these key questions by conducting (to our best knowledge) the most comprehensive anomaly detection benchmark with 30 algorithms on 57 benchmark datasets, named ADBench. Our extensive experiments (98,436 in total) identify meaningful insights into the role of supervision and anomaly types, and unlock future directions for researchers in algorithm selection and design. With ADBench, researchers can easily conduct comprehensive and fair evaluations for newly proposed methods on the datasets (including our contributed ones from natural language and computer vision domains) against the existing baselines. To foster accessibility and reproducibility, we fully open-source ADBench and the corresponding results.",
+		"DOI": "10.48550/ARXIV.2206.09426",
+		"license": "arXiv.org perpetual, non-exclusive license",
+		"note": "publisher: arXiv\nversion: 2",
+		"source": "DOI.org (Datacite)",
+		"title": "ADBench: Anomaly Detection Benchmark",
+		"title-short": "ADBench",
+		"URL": "https://arxiv.org/abs/2206.09426",
+		"author": [
+			{
+				"family": "Han",
+				"given": "Songqiao"
+			},
+			{
+				"family": "Hu",
+				"given": "Xiyang"
+			},
+			{
+				"family": "Huang",
+				"given": "Hailiang"
+			},
+			{
+				"family": "Jiang",
+				"given": "Mingqi"
+			},
+			{
+				"family": "Zhao",
+				"given": "Yue"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/K9N88SWN",
+		"type": "article-journal",
+		"abstract": "Today there exists no shortage of outlier detection algorithms in the literature, yet the complementary and critical problem of unsupervised outlier model selection (UOMS) is vastly understudied. In this work we propose ELECT, a new approach to select an effective candidate model, i.e. an outlier detection algorithm and its hyperparameter(s), to employ on a new dataset without any labels. At its core, ELECT is based on meta-learning; transferring prior knowledge (e.g. model performance) on historical datasets that are similar to the new one to facilitate UOMS. Uniquely, it employs a dataset similarity measure that is performance-based, which is more direct and goal-driven than other measures used in the past. ELECT adaptively searches for similar historical datasets, as such, it can serve an output on-demand, being able to accommodate varying time budgets. Extensive experiments show that ELECT significantly outperforms a wide range of basic UOMS baselines, including no model selection (always using the same popular model such as iForest) as well as more recent selection strategies based on meta-features.",
+		"DOI": "10.48550/ARXIV.2211.01834",
+		"license": "arXiv.org perpetual, non-exclusive license",
+		"note": "publisher: arXiv\nversion: 1",
+		"source": "DOI.org (Datacite)",
+		"title": "Toward Unsupervised Outlier Model Selection",
+		"URL": "https://arxiv.org/abs/2211.01834",
+		"author": [
+			{
+				"family": "Zhao",
+				"given": "Yue"
+			},
+			{
+				"family": "Zhang",
+				"given": "Sean"
+			},
+			{
+				"family": "Akoglu",
+				"given": "Leman"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/33PN655W",
+		"type": "document",
+		"title": "23-kdd-explorations-ipm.pdf",
+		"URL": "https://www.andrew.cmu.edu/user/yuezhao2/papers/23-kdd-explorations-ipm.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/83YCJPET",
+		"type": "article-journal",
+		"abstract": "Given an unsupervised outlier detection task, how should one select i) a detection algorithm, and ii) associated hyperparameter values (jointly called a model)? Eﬀective outlier model selection is essential as diﬀerent algorithms may work well for varying detection tasks, and moreover their performance can be quite sensitive to the values of the hyperparameters (HPs). On the other hand, unsupervised model selection is notoriously diﬃcult, in the absence of hold-out validation data with ground-truth labels. Therefore, the problem is vastly understudied in the outlier mining literature. There exists a body of work that propose internal model evaluation strategies for selecting a model. These so-called internal strategies solely rely on the input data (without labels) and the output (outlier scores) of the candidate models. In this paper, we ﬁrst survey internal model evaluation strategies including both those proposed speciﬁcally for outlier detection, as well as those that can be adapted from the unsupervised deep representation learning literature. Then, we investigate their eﬀectiveness empirically in comparison to simple baselines such as random selection and the popular state-of-the-art detector Isolation Forest (iForest) with default HPs. To this end, we set up (and open-source) a large testbed with 39 detection tasks and 297 candidate models comprised of 8 different detectors and various HP conﬁgurations. We evaluate internal strategies from 7 diﬀerent families on their ability to discriminate between models w.r.t. detection performance, without using any labels. Our study reports a striking ﬁnding, that none of the existing and adapted strategies would be practically useful : stand-alone ones are not signiﬁcantly diﬀerent from random, and consensus-based ones do not outperform iForest (w/ default HPs) while being more expensive (as all candidate models need to be trained for evaluation). Our survey stresses the importance of and the standing need for eﬀective unsupervised outlier model selection, and acts as a call for future work on the problem.",
+		"language": "en",
+		"source": "Zotero",
+		"title": "The Need for Unsupervised Outlier Model Selection: A Review and Evaluation of Internal Evaluation Strategies",
+		"author": [
+			{
+				"family": "Ma",
+				"given": "Martin Q"
+			},
+			{
+				"family": "Zhao",
+				"given": "Yue"
+			},
+			{
+				"family": "Zhang",
+				"given": "Xiaorong"
+			},
+			{
+				"family": "Akoglu",
+				"given": "Leman"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/JAUASTUD",
+		"type": "article-journal",
+		"abstract": "Outlier detection (OD) is a key learning task for finding rare and deviant data samples, with many time-critical applications such as fraud detection and intrusion detection. In this work, we propose TOD, the first tensor-based system for efficient and scalable outlier detection on distributed multi-GPU machines. A key idea behind TOD is decomposing complex OD applications into a small collection of basic tensor algebra operators. This decomposition enables TOD to accelerate OD computations by leveraging recent advances in deep learning infrastructure in both hardware and software. Moreover, to deploy memory-intensive OD applications on modern GPUs with limited on-device memory, we introduce two key techniques. First, provable quantization speeds up OD computations and reduces its memory footprint by automatically performing specific floating-point operations in lower precision while provably guaranteeing no accuracy loss. Second, to exploit the aggregated compute resources and memory capacity of multiple GPUs, we introduce automatic batching, which decomposes OD computations into small batches for both sequential execution on a single GPU and parallel execution on multiple GPUs. TOD supports a diverse set of OD algorithms. Extensive evaluation on 11 real and 3 synthetic OD datasets shows that TOD is on average 10.9x faster than the leading CPU-based OD system PyOD (with a maximum speedup of 38.9x), and can handle much larger datasets than existing GPU-based OD systems. In addition, TOD allows easy integration of new OD operators, enabling fast prototyping of emerging and yet-to-discovered OD algorithms.",
+		"DOI": "10.48550/ARXIV.2110.14007",
+		"license": "arXiv.org perpetual, non-exclusive license",
+		"note": "publisher: arXiv\nversion: 3",
+		"source": "DOI.org (Datacite)",
+		"title": "TOD: GPU-accelerated Outlier Detection via Tensor Operations",
+		"title-short": "TOD",
+		"URL": "https://arxiv.org/abs/2110.14007",
+		"author": [
+			{
+				"family": "Zhao",
+				"given": "Yue"
+			},
+			{
+				"family": "Chen",
+				"given": "George H."
+			},
+			{
+				"family": "Jia",
+				"given": "Zhihao"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/4LZT9VEH",
+		"type": "software",
+		"abstract": "TOD: GPU-accelerated Outlier Detection via Tensor Operations",
+		"genre": "Python",
+		"license": "BSD-2-Clause",
+		"source": "GitHub",
+		"title": "(Py)TOD: GPU-accelerated Outlier Detection via Tensor Operations",
+		"title-short": "(Py)TOD",
+		"URL": "https://github.com/yzhao062/pytod",
+		"author": [
+			{
+				"family": "Zhao",
+				"given": "Yue"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/8E4736DR",
+		"type": "article-journal",
+		"abstract": "PyOD is an open-source Python toolbox for performing scalable outlier detection on multivariate data. Uniquely, it provides access to a wide range of outlier detection algorithms, including established outlier ensembles and more recent neural network-based approaches, under a single, well-documented API designed for use by both practitioners and researchers. With robustness and scalability in mind, best practices such as unit testing, continuous integration, code coverage, maintainability checks, interactive examples and parallelization are emphasized as core components in the toolbox's development. PyOD is compatible with both Python 2 and 3 and can be installed through Python Package Index (PyPI) or https://github.com/yzhao062/pyod.",
+		"container-title": "Journal of Machine Learning Research",
+		"ISSN": "1533-7928",
+		"issue": "96",
+		"page": "1-7",
+		"source": "jmlr.org",
+		"title": "PyOD: A Python Toolbox for Scalable Outlier Detection",
+		"title-short": "PyOD",
+		"URL": "http://jmlr.org/papers/v20/19-011.html",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Zhao",
+				"given": "Yue"
+			},
+			{
+				"family": "Nasrullah",
+				"given": "Zain"
+			},
+			{
+				"family": "Li",
+				"given": "Zheng"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/VKIUYEC6",
+		"type": "article-journal",
+		"abstract": "Smart Buildings (SBs) employ the latest IoT technologies to automate building operations and services. These smart devices can capture and share sensitive and private data about occupants, exposing them to various privacy threats. Nevertheless, the convenience offered by these devices influences users' privacy-related behaviours, and they rarely make active efforts to protect their personal information. To address this tension between data privacy, consent and convenience, this thesis proposes a novel privacy-preserving informed consent management solution. It increases user awareness of data collection and usage, provides fine-grained visibility into privacy conformance and compliance by these devices, and enables informed privacy decision-making.",
+		"DOI": "10.26180/21509904.V1",
+		"license": "In Copyright",
+		"source": "DOI.org (Datacite)",
+		"title": "Informed Consent Management For Preserving Privacy In IoT-oriented Smart Buildings",
+		"URL": "https://bridges.monash.edu/articles/thesis/Informed_Consent_Management_For_Preserving_Privacy_In_IoT-oriented_Smart_Buildings/21509904/1",
+		"author": [
+			{
+				"family": "Pathmabandu",
+				"given": "Chehara"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/X285YAUI",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the XVI Brazilian Symposium on Human Factors in Computing Systems",
+		"DOI": "10.1145/3160504.3160545",
+		"event-place": "Joinville Brazil",
+		"event-title": "IHC 2017: Brazilian Symposium on Human Factors in Computing Systems",
+		"ISBN": "978-1-4503-6377-8",
+		"language": "en",
+		"page": "1-10",
+		"publisher": "ACM",
+		"publisher-place": "Joinville Brazil",
+		"source": "DOI.org (Crossref)",
+		"title": "Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Things",
+		"title-short": "Designing for Pragmatists and Fundamentalists",
+		"URL": "https://dl.acm.org/doi/10.1145/3160504.3160545",
+		"author": [
+			{
+				"family": "Ponciano",
+				"given": "Lesandro"
+			},
+			{
+				"family": "Barbosa",
+				"given": "Pedro"
+			},
+			{
+				"family": "Brasileiro",
+				"given": "Francisco"
+			},
+			{
+				"family": "Brito",
+				"given": "Andrey"
+			},
+			{
+				"family": "Andrade",
+				"given": "Nazareno"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/82MCHENX",
+		"type": "book",
+		"event-place": "New York, NY",
+		"ISBN": "978-1-4614-6395-5",
+		"language": "en",
+		"note": "DOI: 10.1007/978-1-4614-6396-2",
+		"publisher": "Springer New York",
+		"publisher-place": "New York, NY",
+		"source": "DOI.org (Crossref)",
+		"title": "Outlier Analysis",
+		"URL": "http://link.springer.com/10.1007/978-1-4614-6396-2",
+		"author": [
+			{
+				"family": "Aggarwal",
+				"given": "Charu C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/P3QDFGJ7",
+		"type": "software",
+		"abstract": "TODS: An Automated Time-series Outlier Detection System",
+		"genre": "Python",
+		"license": "Apache-2.0",
+		"note": "original-date: 2020-09-08T06:18:12Z",
+		"publisher": "Data Analytics Lab at Rice University",
+		"source": "GitHub",
+		"title": "TODS: Automated Time-series Outlier Detection System",
+		"title-short": "TODS",
+		"URL": "https://github.com/datamllab/tods",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/JKQ99VXB",
+		"type": "article-journal",
+		"abstract": "We present TODS, an automated Time Series Outlier Detection System for research and industrial applications. TODS is a highly modular system that supports easy pipeline construction. The basic building block of TODS is primitive, which is an implementation of a function with hyperparameters. TODS currently supports 70 primitives, including data processing, time series processing, feature analysis, detection algorithms, and a reinforcement module. Users can freely construct a pipeline using these primitives and perform end- to-end outlier detection with the constructed pipeline. TODS provides a Graphical User Interface (GUI), where users can flexibly design a pipeline with drag-and-drop. Moreover, a data-driven searcher is provided to automatically discover the most suitable pipelines given a dataset. TODS is released under Apache 2.0 license at https://github.com/datamllab/tods.",
+		"DOI": "10.48550/ARXIV.2009.09822",
+		"license": "arXiv.org perpetual, non-exclusive license",
+		"note": "publisher: arXiv\nversion: 3",
+		"source": "DOI.org (Datacite)",
+		"title": "TODS: An Automated Time Series Outlier Detection System",
+		"title-short": "TODS",
+		"URL": "https://arxiv.org/abs/2009.09822",
+		"author": [
+			{
+				"family": "Lai",
+				"given": "Kwei-Herng"
+			},
+			{
+				"family": "Zha",
+				"given": "Daochen"
+			},
+			{
+				"family": "Wang",
+				"given": "Guanchu"
+			},
+			{
+				"family": "Xu",
+				"given": "Junjie"
+			},
+			{
+				"family": "Zhao",
+				"given": "Yue"
+			},
+			{
+				"family": "Kumar",
+				"given": "Devesh"
+			},
+			{
+				"family": "Chen",
+				"given": "Yile"
+			},
+			{
+				"family": "Zumkhawaka",
+				"given": "Purav"
+			},
+			{
+				"family": "Wan",
+				"given": "Minyang"
+			},
+			{
+				"family": "Martinez",
+				"given": "Diego"
+			},
+			{
+				"family": "Hu",
+				"given": "Xia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/2WGNJDTQ",
+		"type": "paper-conference",
+		"container-title": "2017 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe)",
+		"DOI": "10.1109/ISGTEurope.2017.8260283",
+		"event-place": "Torino",
+		"event-title": "2017 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe)",
+		"ISBN": "978-1-5386-1953-7",
+		"page": "1-6",
+		"publisher": "IEEE",
+		"publisher-place": "Torino",
+		"source": "DOI.org (Crossref)",
+		"title": "STRIDE-based threat modeling for cyber-physical systems",
+		"URL": "http://ieeexplore.ieee.org/document/8260283/",
+		"author": [
+			{
+				"family": "Khan",
+				"given": "Rafiullah"
+			},
+			{
+				"family": "McLaughlin",
+				"given": "Kieran"
+			},
+			{
+				"family": "Laverty",
+				"given": "David"
+			},
+			{
+				"family": "Sezer",
+				"given": "Sakir"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/7VCDJEFB",
+		"type": "webpage",
+		"abstract": "Threat category page for the Microsoft Threat Modeling Tool, containing categories for all exposed generated threats.",
+		"container-title": "Microsoft Learn",
+		"language": "en-us",
+		"title": "Threats - Microsoft Threat Modeling Tool - Azure",
+		"URL": "https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					5
+				]
+			]
+		}
+	}
+]

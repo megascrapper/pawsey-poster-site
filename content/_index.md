@@ -7,6 +7,7 @@ image_url: stretch.webp
 paige:
     titleclass: display-1 fw-bold text-center
 title: Anomaly Detection for Privacy Preserving Time Series Building IoT Data
+bibFile: /assets/references.json
 ---
 
 <div class="container">
@@ -23,7 +24,7 @@ title: Anomaly Detection for Privacy Preserving Time Series Building IoT Data
 
 ## Background and motivation
 
-Internet of Things (IoT) are becoming increasingly popular as part of building automation system. Most IoT devices currently on the market have limited processing power in order to reduce their cost and power consumption. This usually results in IoT devices offloading their required data processing to the cloud. However, this raises serious privacy concerns as private and sensitive information may be transmitted to the cloud, which has the potential to be leaked or misused. For example, a malicious actor can infer that a building is empty if a power consumption is unusually low for the given time of the day.
+Internet of Things (IoT) are becoming increasingly popular as part of building automation system. Most IoT devices currently on the market have limited processing power in order to reduce their cost and power consumption. This usually results in IoT devices offloading their required data processing to the cloud. However, this raises serious privacy concerns as private and sensitive information may be transmitted to the cloud, which has the potential to be leaked or misused. For example, a malicious actor who has the raw sensor data can infer that a building is empty if a power consumption is unusually low for the given time of the day. {{< cite "http://zotero.org/groups/4911682/items/KSN4SY5M" >}}
 
 ## Research questions
 
@@ -48,3 +49,7 @@ Internet of Things (IoT) are becoming increasingly popular as part of building a
 ## A privacy-preserving IoT architecture
 
 ## Future work
+
+## References
+
+{{< bibliography cited >}}

@@ -1,9 +1,8 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-au'
 title = "Anomaly Detection for Privacy Preserving Time Series Building IoT Data"
+theme = ["paige", "hugo-cite"]
 
-[module.imports]
-path = "github.com/willfaught/paige"
 
 [menu]
     [[menu.main]]
@@ -20,6 +19,7 @@ path = "github.com/willfaught/paige"
     identifier = "plots"
     name = "Plots"
     url = "/plots"
+
 
 [markup]
     [markup.goldmark]
