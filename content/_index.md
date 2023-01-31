@@ -11,12 +11,11 @@ bibFile: /assets/references.json
 ---
 
 <div class="container">
-    <div class="row">
-        <div class="col-2"></div>
-        <div class="col text-center d-grid gap-2">
-            <a class="btn btn-primary" href="pawsey-poster.pdf">View poster</a>
+    <div class="row justify-content-center">
+        <div class="col-8 text-center d-grid gap-2">
+            <a class="btn btn-primary" href="/pawsey-poster.pdf">View poster</a>
+            <a class="btn" href="/poster-references">Poster references</a>
         </div>
-        <div class="col-2"></div>
     </div>
 </div>
 
@@ -32,7 +31,12 @@ Internet of Things (IoT) are becoming increasingly popular as part of building a
 2. How can we reveal activity patterns, anomalous behaviours and other sensitive information from time series data collected by IoT sensors in commercial buildings?
 3. What is an appropriate framework to minimise revealing sensitive information in time series IoT data without impacting its functionalities?
 
-## Aim
+## Research methodology
+
+- We conducted a **review of the literature** on commercial IoT privacy, and developed a threat model (RQ1)
+- We're **developing an anomaly detection system** for time series building IoT data (RQ2)
+  - The idea is that anomalous or unusual readings from IoT sensors may present privacy risks, and thus needs be removed before being sent to the cloud
+- We’re also **proposing a framework to mitigate privacy threats** in commercial IoT systems (RQ3)
 
 ## Related work
 
