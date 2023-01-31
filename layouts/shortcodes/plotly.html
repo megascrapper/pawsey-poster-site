@@ -1,6 +1,7 @@
 {{ $json := .Get "json" }}
-{{ $height := .Get "height" | default "200px" }}
-<div id="{{$json}}" class="plotly" style="height:{{$height}}"></div>
+{{ $height := .Get "height" | default "900px" }}
+{{ $width := .Get "width" | default "1500px"}}
+<div id="{{$json}}" class="plotly" style="height:{{$height}}; width:{{$width}}; max-width:100%"></div>
 <script>
 Plotly.d3.json({{$json}}, function(err, fig) {
     Plotly.plot('{{$json}}', fig.data, fig.layout, {responsive: true});
