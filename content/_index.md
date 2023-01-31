@@ -1,5 +1,5 @@
 ---
-blurb: Internet of Things and smart buildings are all the rage nowadays. While these systems can improve comfort and efficiency, many of these smart systems were built with *very* little regard to privacy. We are developing an anomaly detection system in time series building IoT data. Also, we identified its privacy threats and propose ways we can mitigate those threats.
+blurb: Internet of Things and smart buildings are all the rage nowadays. While these systems can improve comfort and efficiency, many of these smart systems were built with very little regard to privacy. We are developing an anomaly detection system in time series building IoT data. Also, we identified its privacy threats and propose ways we can mitigate those threats.
 description: "By Akbar Fadiansyah -- Supervised by Dr Chehara Pathmabandu"
 greeting: ""
 image_stretch: true
@@ -14,12 +14,13 @@ bibFile: /assets/references.json
     <div class="row justify-content-center">
         <div class="col-8 text-center d-grid gap-2">
             <a class="btn btn-primary" href="/pawsey-poster.pdf">View poster</a>
-            <a class="btn" href="/poster-references">Poster references</a>
+            <a class="btn btn-secondary" href="/poster-references">Poster references</a>
         </div>
     </div>
 </div>
 
 &nbsp;
+{{< load-plotly >}}
 
 ## Background and motivation
 
@@ -43,6 +44,12 @@ Internet of Things (IoT) are becoming increasingly popular as part of building a
 ## Threat model
 
 ## Dataset and sensor selection
+
+{{< plotly json="/plots/pir_seasonal_hourly_hm.json" height="450px" >}}
+
+{{< plotly json="/plots/co2_seasonal_hourly_hm.json" height="450px" >}}
+
+{{< plotly json="/plots/temp_seasonal_hourly_hm.json" height="450px" >}}
 
 ## Model
 
