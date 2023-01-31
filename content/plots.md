@@ -8,32 +8,32 @@ title: Plots
 
 ### Monday
 
-{{< plotly json="/plots/daily/monday.json" height="900px" >}}
+{{< plotly json="/plots/daily/monday.json" >}}
 
 ### Tuesday
 
-{{< plotly json="/plots/daily/tuesday.json" height="900px" >}}
+{{< plotly json="/plots/daily/tuesday.json" >}}
 
 ### Wednesday
 
-{{< plotly json="/plots/daily/wednesday.json" height="900px" >}}
+{{< plotly json="/plots/daily/wednesday.json" >}}
 
 ### Thursday
 
-{{< plotly json="/plots/daily/thursday.json" height="900px" >}}
+{{< plotly json="/plots/daily/thursday.json" >}}
 
 ### Friday
 
-{{< plotly json="/plots/daily/friday.json" height="900px" >}}
+{{< plotly json="/plots/daily/friday.json" >}}
 
 ### Saturday
 
-{{< plotly json="/plots/daily/saturday.json" height="900px" >}}
+{{< plotly json="/plots/daily/saturday.json" >}}
 
 ### Sunday
 
-{{< plotly json="/plots/daily/sunday.json" height="900px" >}}
+{{< plotly json="/plots/daily/sunday.json" >}}
 
 ## Christmas holiday graphs
 
-{{< plotly json="/plots/xmas.json" height="900px" >}}
+{{< plotly json="/plots/xmas.json" >}}
