@@ -4405,5 +4405,57 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/6H96868N",
+		"type": "paper-conference",
+		"container-title": "2014 International Conference on the Internet of Things (IOT)",
+		"DOI": "10.1109/IOT.2014.7030110",
+		"event-place": "Cambridge, MA, USA",
+		"event-title": "2014 International Conference on the Internet of Things (IOT)",
+		"ISBN": "978-1-4799-5154-3",
+		"page": "25-30",
+		"publisher": "IEEE",
+		"publisher-place": "Cambridge, MA, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Look twice: Uncover hidden information in room climate sensor data",
+		"title-short": "Look twice",
+		"URL": "https://ieeexplore.ieee.org/document/7030110",
+		"author": [
+			{
+				"family": "Worner",
+				"given": "Dominic"
+			},
+			{
+				"family": "Bomhard",
+				"given": "Thomas",
+				"non-dropping-particle": "von"
+			},
+			{
+				"family": "Roschlin",
+				"given": "Marc"
+			},
+			{
+				"family": "Wortmann",
+				"given": "Felix"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10
+				]
+			]
+		}
 	}
 ]

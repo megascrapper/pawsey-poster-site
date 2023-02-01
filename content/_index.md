@@ -83,11 +83,19 @@ In the following table, we identified potential threats from each aspect of the 
 
 ## Dataset and sensor selection
 
+Our data source for the model primarily comes from [Data Clearing House (DCH)](https://dataclearinghouse.org/), which contains ontology information about sites, buildings, sensors and equipment of various CSIRO sites according to [BrickSchema](https://brickschema.org/). Raw sensor observation data are retrieved from [Senaps](https://senaps.io/). The observations do not have any labels on which data points are anomalous, and thus our model is completely unsupervised.
+
+To better gain insights for sensor selection, we analysed observations of CO2, temperature and motion sensors during weekdays, discarding outliers and zero or NaN values. These sensor types are chosen based on its ability to detect or infer occupancy, such as in {{< cite "http://zotero.org/groups/4911682/items/6H96868N" >}}. Motion sensors are included as they directly detect occupancy for a given area, and thus can be used to indicate whether other sensor types are reliable indicators of occupancy. However, since each motion sensor can only detect occupancy as a binary state (occupied/not occupied), we used the proportion of sensors detecting motion to the total number of sensors to estimate occupancy. We then averaged the values for each sensor every hour for the given season and plotted the results, as shown below.
+
 {{< plotly json="/plots/pir_seasonal_hourly_hm.json" height="450px" >}}
 
 {{< plotly json="/plots/co2_seasonal_hourly_hm.json" height="450px" >}}
 
 {{< plotly json="/plots/temp_seasonal_hourly_hm.json" height="450px" >}}
+
+From the plots above, we selected CO2 and motion sensors for our anomaly detection model, as the values are closely related to each other, reflecting occupancy of a typical weekday. Temperature measurements are excluded as it shows too much seasonal variability, and may also be affected by factors such as HVAC operation schedule, which may mask effects of occupancy.
+
+The training set is restricted to observations from April to December 2022. This is chosen based on availability of the data as well as to avoid biases from COVID-19 pandemic.
 
 ## Model
 
