@@ -41,6 +41,13 @@ Internet of Things (IoT) are becoming increasingly popular as part of building a
 
 ## Related work
 
+There have been some research in the past regarding anomaly detection and activity recognition in time series IoT data:
+
+- {{< cite "http://zotero.org/groups/4911682/items/KSN4SY5M" >}} developed an anomaly detection and privacy preservation for smart meters, which involves assigning a privacy score to determine the amount of obfuscation required to preserve privacy
+- {{< cite "http://zotero.org/groups/4911682/items/AGRHARKS" >}} demonstrated that even with only basic sensors such as temperature and humidity, occupancy can be detected with high accuracy
+
+In addition, there are several papers comparing the various anomaly detection methods for time series data, such as {{< cite "http://zotero.org/groups/4911682/items/FECMWA35" >}} and {{< cite "http://zotero.org/groups/4911682/items/V5BBV4I7" >}}, the latter of which focuses on unsupervised methods for anomaly detection.
+
 ## Threat model
 
 ## Dataset and sensor selection
