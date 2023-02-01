@@ -24,7 +24,7 @@ bibFile: /assets/references.json
 
 ## Background and motivation
 
-Internet of Things (IoT) are becoming increasingly popular as part of building automation system. Most IoT devices currently on the market have limited processing power in order to reduce their cost and power consumption. This usually results in IoT devices offloading their required data processing to the cloud. However, this raises serious privacy concerns as private and sensitive information may be transmitted to the cloud, which has the potential to be leaked or misused. For example, a malicious actor who has the raw sensor data can infer that a building is empty if a power consumption is unusually low for the given time of the day. {{< cite "http://zotero.org/groups/4911682/items/KSN4SY5M" >}}
+Internet of Things (IoT) are becoming increasingly popular as part of building automation system. Most IoT devices currently on the market have limited processing power in order to reduce their cost and power consumption. This usually results in IoT devices offloading their required data processing to the cloud. However, this raises serious privacy concerns as private and sensitive information may be transmitted to the cloud, which has the potential to be leaked or misused.
 
 ## Research questions
 
@@ -49,6 +49,37 @@ There have been some research in the past regarding anomaly detection and activi
 In addition, there are several papers comparing the various anomaly detection methods for time series data, such as {{< cite "http://zotero.org/groups/4911682/items/FECMWA35" >}} and {{< cite "http://zotero.org/groups/4911682/items/V5BBV4I7" >}}, the latter of which focuses on unsupervised methods for anomaly detection.
 
 ## Threat model
+
+This section defined a threat model for a typical commercial cloud-based smart building system. This system comprises an IoT sensor, which records the raw observation values. These values are then sent to a gateway device, which is responsible for uploading it to the cloud. The gateway merely acts to connect the lo power sensors to the internet, with little to no processing taking place on the gateway. The cloud is responsible for storing ontology and sensor observations for the system, as well as performing the computations necessary for the system, such as HVAC scheduling. The following data flow diagram (DFD) shows the flow of data:
+
+{{< paige/image src="iot_dfd.png" >}}
+
+Legend:
+
+{{< paige/image src="iot_dfd_legend.png" >}}
+
+In the above DFD, elements in the circle are part of the cloud, and are thus considered untrusted. This assumption is based on the model of local differential privacy, where the data curator (i.e. the cloud) is considered untrusted {{< cite "http://zotero.org/groups/4911682/items/AWYDX3JX" >}}. This assumption plays a key role in designing our [privacy preservation framework](#a-privacy-preserving-iot-architecture) below.
+
+### Threat actors
+
+- **Building administrators** usually have the highest privileges in the system, with full access and control to the data and configuration of the system, including the raw sensor values. In this context, 'building administrators' can also be the owner of the building, which may be common in home or small business systems which may not have a separate building administrator. As these users have access to all aspects of the system, there is a large potential for abuse as well as risks for an extensive data breach or leakage.
+- **Cloud providers** usually have control over the infrastructure on the cloud. This may include the server where stream data is uploaded into and processes, as well as storage servers where stream and ontology data are stored. The cloud infrastructure may be breached, which may leak the stored data. In addition, the cloud provider may be abusing the stored data for their own purposes, such as selling it to advertisers.
+- **IoT vendors** are of similar concern with the cloud provider, where they may abuse the stored data for their own benefit.
+- **Building intruders and attackers** may be interested in figuring out when a building is empty, or view the ontology data to determine where security cameras and motion sensors are located, which may enable them to break into the building without detection.
+
+
+### Threats identified
+
+In the following table, we identified potential threats from each aspect of the system. In addition, we try to categorise each threat according to the [STRIDE model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats). STRIDE stands for Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Escalation of Privilege. Note that this is not exhaustive, and focuses on threats that primarily impact privacy.
+
+{{< bootstrap-table table_class="table table-striped" caption="Abuse cases, with STRIDE assessment" >}}
+| Element                                           | Abuse case                                                                                                                  | S | T | R | I | D | E |
+|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|
+| Ontology data of sensors, equipment and buildings | Data may be used to gain knowledge about the site, and find weak points to break into the site                              | - | - | - | ✅ | - | ✅ |
+| Raw stream data                                   | Adversaries can use the stream data to infer occupancy and activities in the building                                       | - | - | - | ✅ | - | - |
+| Data storage in cloud                             | Data may be leaked if cloud service gets breached, cloud provider may use data for its own use, or sell it to third parties | - | - | - | ✅ | - | - |
+| Sending stream data to the cloud                  | Eavesdropping and MITM attacks                                                                                              | ✅ | ✅ | ✅ | ✅ | - | - |
+{{< /bootstrap-table >}}
 
 ## Dataset and sensor selection
 
