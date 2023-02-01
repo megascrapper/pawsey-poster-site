@@ -54,7 +54,6 @@ This section defined a threat model for a typical commercial cloud-based smart b
 
 <div class="container">
     <div class="row justify-content-center">
-
         <div class="col-2">
             {{< paige/image src="iot_dfd_legend.png" >}}
         </div>
@@ -134,6 +133,16 @@ For each day for September 2020 and 2021, we run anomaly prediction for that day
 We ran observations from 25 to 31st of October December 2020 and 2021 and compared it with the training set from the same time period in 2022. This tests the model to detect anomalies during a holiday period, with October data used as comparison for non-holiday period.
 
 ## Discussion
+
+### Observed trends on CO2 levels
+
+In general, there is a lack of significant rises in CO2 levels during office hours of weekdays of 2020 and 2021, with a notable exception to 29 September 2020. This confirms with the heatmap on the [sensor selection](#dataset-and-sensor-selection) section, where we see similar lack of rise particularly in spring 2021. This can be largely attributed by the COVID-19 lockdowns during that time period, causing workers to work from home and thus decreasing building occupancy. Interestingly, there is an inconsistent rise in 2022, where we expect a significant rise every weekday during office hours. This may suggest a shift towards permanent work from home, even after the pandemic {{< cite "http://zotero.org/groups/4911682/items/K6AVXMIA" >}}. For weekends, there are no significant rises throughout the day for all days, reflecting a lack of occupancy during weekends.
+
+### Model performance
+
+The short term detectors were able to detect short term anomalies reasonably well, considering its lack of tuning. For example, it was able to detect a sudden spike at 3pm on 30 September 2020 as a short term anomaly. The long term detectors also work reasonably well, though not in the way we expected. As we alluded before, the shift towards work from home in the post-pandemic era causes offices to be occupied less, even during business hours on weekdays. This causes rises during such time periods to be flagged as long term anomalies. If we had trained the set on pre-pandemic data where remote work is not as common, such rises may not be flagged as anomalous. However, we do not have observations before mid-2020, hence why we trained the set on 2022 data.
+
+Another interesting observation is that both short and long term detectors were able to flag unusually high or low CO2 levels for the entire day, such as 31 December 2022. This is an example of when an anomaly is both deviant from both its local neighbours and long term normal values.
 
 ## A privacy-preserving IoT architecture
 

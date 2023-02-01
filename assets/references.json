@@ -4457,5 +4457,50 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/K6AVXMIA",
+		"type": "report",
+		"event-place": "Cambridge, MA",
+		"language": "en",
+		"note": "DOI: 10.3386/w28731",
+		"number": "w28731",
+		"page": "w28731",
+		"publisher": "National Bureau of Economic Research",
+		"publisher-place": "Cambridge, MA",
+		"source": "DOI.org (Crossref)",
+		"title": "Why Working from Home Will Stick",
+		"URL": "http://www.nber.org/papers/w28731.pdf",
+		"author": [
+			{
+				"family": "Barrero",
+				"given": "Jose Maria"
+			},
+			{
+				"family": "Bloom",
+				"given": "Nicholas"
+			},
+			{
+				"family": "Davis",
+				"given": "Steven"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					4
+				]
+			]
+		}
 	}
 ]
