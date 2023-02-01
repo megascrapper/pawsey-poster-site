@@ -117,6 +117,16 @@ For this project, each node has its own model, trained on sensors associated to 
 
 ## Results
 
+This section presents training results for an air handling unit which contains one CO2 sensor, and methodologies to test the model against new data. The plots can be seen at the [plots page](/plots).
+
+### Daily data of September 2020 to 2022
+
+For each day for September 2020 and 2021, we run anomaly prediction for that day and collected the results. We then grouped the days first by day of the week, and then by year, and plotted the results against the training results for the same day in 2022. This will test the model's ability to detect anomalies when given a daily data.
+
+### Christmas 2020 to 2022
+
+We ran observations from 25 to 31st of October December 2020 and 2021 and compared it with the training set from the same time period in 2022. This tests the model to detect anomalies during a holiday period, with October data used as comparison for non-holiday period.
+
 ## Discussion
 
 ## A privacy-preserving IoT architecture

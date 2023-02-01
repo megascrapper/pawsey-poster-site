@@ -4,6 +4,8 @@ title: Plots
 
 {{< load-plotly >}}
 
+In all plots below, a red cross (<span style="color: red;"><b>&times;</b></span>) indicates a short term anomaly, while a blue plus (<span style="color: blue;"><b>+</b></span>) indicates a long term anomaly.
+
 ## Daily graphs of September 2020 to 2022
 
 ### Monday
