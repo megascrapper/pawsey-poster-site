@@ -52,11 +52,17 @@ In addition, there are several papers comparing the various anomaly detection me
 
 This section defined a threat model for a typical commercial cloud-based smart building system. This system comprises an IoT sensor, which records the raw observation values. These values are then sent to a gateway device, which is responsible for uploading it to the cloud. The gateway merely acts to connect the lo power sensors to the internet, with little to no processing taking place on the gateway. The cloud is responsible for storing ontology and sensor observations for the system, as well as performing the computations necessary for the system, such as HVAC scheduling. The following data flow diagram (DFD) shows the flow of data:
 
-{{< paige/image src="iot_dfd.png" >}}
+<div class="container">
+    <div class="row justify-content-center">
 
-Legend:
-
-{{< paige/image src="iot_dfd_legend.png" >}}
+        <div class="col-2">
+            {{< paige/image src="iot_dfd_legend.png" >}}
+        </div>
+        <div class="col">
+            {{< paige/image src="iot_dfd.png" >}}
+        </div>
+    </div>
+</div>
 
 In the above DFD, elements in the circle are part of the cloud, and are thus considered untrusted. This assumption is based on the model of local differential privacy, where the data curator (i.e. the cloud) is considered untrusted {{< cite "http://zotero.org/groups/4911682/items/AWYDX3JX" >}}. This assumption plays a key role in designing our [privacy preservation framework](#a-privacy-preserving-iot-architecture) below.
 
