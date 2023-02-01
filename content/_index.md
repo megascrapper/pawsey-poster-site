@@ -99,6 +99,22 @@ The training set is restricted to observations from April to December 2022. This
 
 ## Model
 
+For the purposes of our system, we define two anomaly types:
+
+- **Short term anomalies** are data points that deviate from their neighbouring values. Example of this are spikes that occur by people occupying an office outside office hours for a day.
+- **Long term anomalies** are data points that deviate from 'normal' data for an extended period of time. Examples include a low CO2 reading for the entire day during pandemic lockdowns.
+
+We selected the following detection algorithms for each anomaly type:
+
+- Short term: Local Outlier Factor (LOF)
+- Long term: k-Nearest Neighbours (KNN)
+
+The algorithms are selected based on its performance for the given anomaly type, according to ADBench anomaly detection benchmark {{< cite "http://zotero.org/groups/4911682/items/V5BBV4I7" >}}, and availability of a mature implementation of said algorithms. Separate algorithms are used as there is no one algorithm (or parameters within an algorithm) that performs the best on all types of anomalies {{< cite "http://zotero.org/groups/4911682/items/V5BBV4I7" >}}{{< cite "http://zotero.org/groups/4911682/items/FECMWA35" >}}.
+
+Actual model training and testing is performed using [PyOD](https://github.com/yzhao062/pyod), an open source Python anomaly detection library {{< cite "http://zotero.org/groups/4911682/items/8E4736DR" >}}. PyOD contains implementations of many anomaly detection algorithms, with a consistent and easy-to-use API. For all algorithms in all models, the default PyOD parameters were used.
+
+For this project, each node has its own model, trained on sensors associated to that node. 'Node' here means an area or equipment with sensors, such as an AHU, room or power meter.
+
 ## Results
 
 ## Discussion
