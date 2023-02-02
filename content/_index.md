@@ -159,6 +159,18 @@ Aside from anomaly detection, the exact methods to achieve privacy preservation 
 
 ## Future work
 
+While our anomaly detection system has a great potential for IoT privacy preservation, it still requires continuous research efforts and improvements to make it ready for real-world use. This section summarises some future directions to explore.
+
+### Tuning of detector parameters
+
+It is clear that the default parameters used by PyOD gives unsatisfactory results for our purposes. Extensive experimentation is required to determine the best algorithms and parameters for the given model. While there are some efforts to automate this process such as MetaOD {{< cite "http://zotero.org/groups/4911682/items/HPZAXI9W" >}}, there is still much research needed on automated algorithm selection, configuration and tuning {{< cite "http://zotero.org/groups/4911682/items/FECMWA35" >}}.
+
+### Development of generalised model
+
+### Dynamic model updating
+
+## Acknowledgements
+
 ## References
 
 {{< bibliography cited >}}

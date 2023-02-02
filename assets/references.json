@@ -4502,5 +4502,46 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/4911682/items/HPZAXI9W",
+		"type": "article-journal",
+		"abstract": "Given an unsupervised outlier detection (OD) task on a new dataset, how can we automatically select a good outlier detection method and its hyperparameter(s) (collectively called a model)? Thus far, model selection for OD has been a \"black art\"; as any model evaluation is infeasible due to the lack of (i) hold-out data with labels, and (ii) a universal objective function. In this work, we develop the first principled data-driven approach to model selection for OD, called MetaOD, based on meta-learning. MetaOD capitalizes on the past performances of a large body of detection models on existing outlier detection benchmark datasets, and carries over this prior experience to automatically select an effective model to be employed on a new dataset without using any labels. To capture task similarity, we introduce specialized meta-features that quantify outlying characteristics of a dataset. Through comprehensive experiments, we show the effectiveness of MetaOD in selecting a detection model that significantly outperforms the most popular outlier detectors (e.g., LOF and iForest) as well as various state-of-the-art unsupervised meta-learners while being extremely fast. To foster reproducibility and further research on this new problem, we open-source our entire meta-learning system, benchmark environment, and testbed datasets.",
+		"DOI": "10.48550/ARXIV.2009.10606",
+		"license": "arXiv.org perpetual, non-exclusive license",
+		"note": "publisher: arXiv\nversion: 2",
+		"source": "DOI.org (Datacite)",
+		"title": "Automating Outlier Detection via Meta-Learning",
+		"URL": "https://arxiv.org/abs/2009.10606",
+		"author": [
+			{
+				"family": "Zhao",
+				"given": "Yue"
+			},
+			{
+				"family": "Rossi",
+				"given": "Ryan A."
+			},
+			{
+				"family": "Akoglu",
+				"given": "Leman"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
 	}
 ]
