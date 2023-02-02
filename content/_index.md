@@ -13,8 +13,8 @@ bibFile: /assets/references.json
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-8 text-center d-grid gap-2">
-            <a class="btn btn-primary" href="/pawsey-poster.pdf">View poster</a>
-            <a class="btn btn-secondary" href="/poster-references">Poster references</a>
+            <a class="btn btn-primary" href="pawsey-poster.pdf">View poster</a>
+            <a class="btn btn-secondary" href="poster-references">Poster references</a>
         </div>
     </div>
 </div>
@@ -122,7 +122,7 @@ For this project, each node has its own model, trained on sensors associated to 
 
 ## Results
 
-This section presents training results for an air handling unit which contains one CO2 sensor, and methodologies to test the model against new data. The plots can be seen at the [plots page](/plots).
+This section presents training results for an air handling unit which contains one CO2 sensor, and methodologies to test the model against new data. The plots can be seen at the [plots page](plots).
 
 ### Daily data of September 2020 to 2022
 
