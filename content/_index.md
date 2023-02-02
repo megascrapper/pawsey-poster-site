@@ -146,6 +146,17 @@ Another interesting observation is that both short and long term detectors were 
 
 ## A privacy-preserving IoT architecture
 
+In this section, we propose a privacy preservation framework for cloud-based smart building systems which minimise disclosing sensitive data to the cloud. Our system is based on similar systems proposed by {{< cite "http://zotero.org/groups/4911682/items/4TL48CLV" >}} and {{< cite "http://zotero.org/groups/4911682/items/BDJRCP5Y" >}}. The diagram below shows a high-level architecture of the system:
+
+{{< paige/image src="privacy_preservation_system.png" caption="Proposed framework for privacy preserving IoT system" >}}
+
+In this system, the IoT sensors can remain a low powered device, where its only job is to collect the raw data with little to no preprocessing. Between the sensors and the cloud, we added an edge node, whose primary job is to filter out sensitive data by applying anomaly detection and privacy preservation techniques before sending the data to the cloud. The edge node also takes the role of the gateway from the DFD, which connects the sensors to the outside world. Once the data arrives at the cloud, it can perform the rest of data processing, leveraging its vast computing resources. This allows the edge node to simply be made up of a cheap, low powered computer such as Raspberry Pi.
+
+Aside from anomaly detection, the exact methods to achieve privacy preservation on the edge device remains undefined. Some suggestions for methods:
+
+- **Differential privacy** is a commonly proposed method for data minimisation and obfuscation. It is the primary method employed by {{< cite "http://zotero.org/groups/4911682/items/4TL48CLV" >}} for their edge-based privacy preservation framework. Differential privacy commonly involves perturbation using noise addition methods such as Laplace mechanism {{< cite "http://zotero.org/groups/4911682/items/AWYDX3JX" >}}{{< cite "http://zotero.org/groups/4911682/items/KGNZ7EZJ" >}}{{< cite "http://zotero.org/groups/4911682/items/7CS5Z5GR" >}} and reconstruct the features into an obfuscated data stream.
+- **Ontology-based filtering** uses machine-readable description of each element in the IoT system, including how the data is collected and used {{< cite "http://zotero.org/groups/4911682/items/IH3N3Q2C" >}}{{< cite "http://zotero.org/groups/4911682/items/HGH4UMGY" >}}. For our dataset, we can expand DCH to include this extra information for privacy preservation.
+
 ## Future work
 
 ## References
