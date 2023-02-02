@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = "https://megascrapper.github.io/pawsey-poster-site/"
 languageCode = 'en-au'
 title = "Anomaly Detection for Privacy Preserving Time Series Building IoT Data"
 theme = ["paige", "hugo-cite"]
