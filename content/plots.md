@@ -10,32 +10,32 @@ In all plots below, a red cross (<span style="color: red;"><b>&times;</b></span>
 
 ### Monday
 
-{{< plotly json="/plots/daily/monday.json" >}}
+{{< plotly json="plot-data/daily/monday.json" >}}
 
 ### Tuesday
 
-{{< plotly json="/plots/daily/tuesday.json" >}}
+{{< plotly json="plot-data/daily/tuesday.json" >}}
 
 ### Wednesday
 
-{{< plotly json="/plots/daily/wednesday.json" >}}
+{{< plotly json="plot-data/daily/wednesday.json" >}}
 
 ### Thursday
 
-{{< plotly json="/plots/daily/thursday.json" >}}
+{{< plotly json="plot-data/daily/thursday.json" >}}
 
 ### Friday
 
-{{< plotly json="/plots/daily/friday.json" >}}
+{{< plotly json="plot-data/daily/friday.json" >}}
 
 ### Saturday
 
-{{< plotly json="/plots/daily/saturday.json" >}}
+{{< plotly json="plot-data/daily/saturday.json" >}}
 
 ### Sunday
 
-{{< plotly json="/plots/daily/sunday.json" >}}
+{{< plotly json="plot-data/daily/sunday.json" >}}
 
 ## Christmas holiday graphs
 
-{{< plotly json="/plots/xmas.json" >}}
+{{< plotly json="plot-data/xmas.json" >}}

@@ -92,11 +92,11 @@ Our data source for the model primarily comes from [Data Clearing House (DCH)](h
 
 To better gain insights for sensor selection, we analysed observations of CO2, temperature and motion sensors during weekdays, discarding outliers and zero or NaN values. These sensor types are chosen based on its ability to detect or infer occupancy, such as in {{< cite "http://zotero.org/groups/4911682/items/6H96868N" >}}. Motion sensors are included as they directly detect occupancy for a given area, and thus can be used to indicate whether other sensor types are reliable indicators of occupancy. However, since each motion sensor can only detect occupancy as a binary state (occupied/not occupied), we used the proportion of sensors detecting motion to the total number of sensors to estimate occupancy. We then averaged the values for each sensor every hour for the given season and plotted the results, as shown below.
 
-{{< plotly json="/plots/pir_seasonal_hourly_hm.json" height="450px" >}}
+{{< plotly json="plot-data/pir_seasonal_hourly_hm.json" height="450px" >}}
 
-{{< plotly json="/plots/co2_seasonal_hourly_hm.json" height="450px" >}}
+{{< plotly json="plot-data/co2_seasonal_hourly_hm.json" height="450px" >}}
 
-{{< plotly json="/plots/temp_seasonal_hourly_hm.json" height="450px" >}}
+{{< plotly json="plot-data/temp_seasonal_hourly_hm.json" height="450px" >}}
 
 From the plots above, we selected CO2 and motion sensors for our anomaly detection model, as the values are closely related to each other, reflecting occupancy of a typical weekday. Temperature measurements are excluded as it shows too much seasonal variability, and may also be affected by factors such as HVAC operation schedule, which may mask effects of occupancy.
 
