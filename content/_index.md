@@ -13,7 +13,7 @@ bibFile: /assets/references.json
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-8 text-center d-grid gap-2">
-            <a class="btn btn-primary" href="pawsey-poster.pdf">View poster</a>
+            <a class="btn btn-primary" href="pawsey_poster.pdf">View poster</a>
             <a class="btn btn-secondary" href="poster-references">Poster references</a>
         </div>
     </div>
