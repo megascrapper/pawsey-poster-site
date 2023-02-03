@@ -167,7 +167,12 @@ It is clear that the default parameters used by PyOD gives unsatisfactory result
 
 ### Development of generalised model
 
-### Dynamic model updating
+In our current iteration, each node has its own model, trained independently of each other and without any prior knowledge or ground truth. Depending on the number of sensors and size of the training set, the amount of computational power required to train the model may be prohibitively large for the edge node. To alleviate such concerns, a base model should be generated from synthetic data. Transfer learning with domain adaptation can then be used to develop a node-specific model. {{< cite "http://zotero.org/groups/4911682/items/B4UCUAJN" >}} demonstrated the effectiveness of transfer learning by reducing the amount of training set required by half to achieve similar accuracy in half for occupancy detection, compared to the non-transferred model.
+
+### Other
+
+- **Train the model on pre-pandemic data:** As discussed before, the rise in work from home significantly affected occupancy levels of commercial buildings. A model trained prior to 2020 would be beneficial in tracking anomalies during and shortly after the pandemic, where work from home was still considered novel arrangements.
+- **Improvements to data interpolation:** Each sensor records observations at slightly different times, leaving gaps in between. Our current approach to fill the gaps is to copy the value of the last reading. However, this may not be optimal, especially during extended outages where the sensors are offline. Several papers such as {{< cite "http://zotero.org/groups/4911682/items/PDGRBD78" >}} proposed ways to effectively fill gaps in observations.
 
 ## Acknowledgements
 
