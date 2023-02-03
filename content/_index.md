@@ -176,6 +176,15 @@ In our current iteration, each node has its own model, trained independently of 
 
 ## Acknowledgements
 
+Special thanks to:
+
+- **Chehara Pathmabandu** and **Mahathir Almashor** for project supervision and guidance
+- **John McCulloch** for the guide to use DCH and Senaps, as well as providing a Python interface to communicate with its API
+- **Edric Matwiejew** and the Pawsey Summer Internship team for support and mentoring
+- The **PyOD** project for providing implementations to numerous anomaly detection algorithms
+
+This work was supported by resources provided by the Pawsey Supercomputing Centre with funding from the Australian Government and the Government of Western Australia.
+
 ## References
 
 {{< bibliography cited >}}
