@@ -31,4 +31,4 @@ theme = ["paige", "hugo-cite"]
 
 [params]
     [params.paige]
-    hide_theme_link = true
+        hide_credit_link = true
