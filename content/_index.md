@@ -5,7 +5,7 @@ greeting: ""
 image_stretch: true
 image_url: stretch.webp
 paige:
-    titleclass: display-1 fw-bold text-center
+  titleclass: display-1 fw-bold text-center
 title: Anomaly Detection for Privacy Preserving Time Series Building IoT Data
 bibFile: /assets/references.json
 ---
@@ -72,18 +72,17 @@ In the above DFD, elements in the circle are part of the cloud, and are thus con
 - **IoT vendors** are of similar concern with the cloud provider, where they may abuse the stored data for their own benefit.
 - **Building intruders and attackers** may be interested in figuring out when a building is empty, or view the ontology data to determine where security cameras and motion sensors are located, which may enable them to break into the building without detection.
 
-
 ### Threats identified
 
 In the following table, we identified potential threats from each aspect of the system. In addition, we try to categorise each threat according to the [STRIDE model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats). STRIDE stands for Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Escalation of Privilege. Note that this is not exhaustive, and focuses on threats that primarily impact privacy.
 
 {{< bootstrap-table table_class="table table-striped" caption="Abuse cases, with STRIDE assessment" >}}
-| Element                                           | Abuse case                                                                                                                  | S | T | R | I | D | E |
+| Element | Abuse case | <abbr title="Spoofing">S</abbr> | <abbr title="Tampering">T</abbr> | <abbr title="Repudiation">R</abbr> | <abbr title="Information Disclosure">I</abbr> | <abbr title="Denial of Service">D</abbr> | <abbr title="Escalation of Privilege">E</abbr> |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|
-| Ontology data of sensors, equipment and buildings | Data may be used to gain knowledge about the site, and find weak points to break into the site                              | - | - | - | ✅ | - | ✅ |
-| Raw stream data                                   | Adversaries can use the stream data to infer occupancy and activities in the building                                       | - | - | - | ✅ | - | - |
-| Data storage in cloud                             | Data may be leaked if cloud service gets breached, cloud provider may use data for its own use, or sell it to third parties | - | - | - | ✅ | - | - |
-| Sending stream data to the cloud                  | Eavesdropping and MITM attacks                                                                                              | ✅ | ✅ | ✅ | ✅ | - | - |
+| Ontology data of sensors, equipment and buildings | Data may be used to gain knowledge about the site, and find weak points to break into the site | - | - | - | ✅ | - | ✅ |
+| Raw stream data | Adversaries can use the stream data to infer occupancy and activities in the building | - | - | - | ✅ | - | - |
+| Data storage in cloud | Data may be leaked if cloud service gets breached, cloud provider may use data for its own use, or sell it to third parties | - | - | - | ✅ | - | - |
+| Sending stream data to the cloud | Eavesdropping and MITM attacks | ✅ | ✅ | ✅ | ✅ | - | - |
 {{< /bootstrap-table >}}
 
 ## Dataset and sensor selection
@@ -180,7 +179,7 @@ In our current iteration, each node has its own model, trained independently of 
 
 Special thanks to:
 
-- **Chehara Pathmabandu** and **Mahathir Almashor** for project supervision and guidance
+- **Chehara Pathmabandu**, **Mahathir Almashor** and the **DSS team** for project supervision and guidance
 - **John McCulloch** for the guide to use DCH and Senaps, as well as providing a Python interface to communicate with its API
 - **Edric Matwiejew** and the Pawsey Summer Internship team for support and mentoring
 - The **PyOD** project for providing implementations to numerous anomaly detection algorithms
