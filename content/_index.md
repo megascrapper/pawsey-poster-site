@@ -157,6 +157,8 @@ Aside from anomaly detection, the exact methods to achieve privacy preservation 
 - **Differential privacy** is a commonly proposed method for data minimisation and obfuscation. It is the primary method employed by {{< cite "http://zotero.org/groups/4911682/items/4TL48CLV" >}} for their edge-based privacy preservation framework. Differential privacy commonly involves perturbation using noise addition methods such as Laplace mechanism {{< cite "http://zotero.org/groups/4911682/items/AWYDX3JX" >}}{{< cite "http://zotero.org/groups/4911682/items/KGNZ7EZJ" >}}{{< cite "http://zotero.org/groups/4911682/items/7CS5Z5GR" >}} and reconstruct the features into an obfuscated data stream.
 - **Ontology-based filtering** uses machine-readable description of each element in the IoT system, including how the data is collected and used {{< cite "http://zotero.org/groups/4911682/items/IH3N3Q2C" >}}{{< cite "http://zotero.org/groups/4911682/items/HGH4UMGY" >}}. For our dataset, we can expand DCH to include this extra information for privacy preservation.
 
+<!-- TODO: mention why the methods are appropriate/how it could be done -->
+
 ## Future work
 
 While our anomaly detection system has a great potential for IoT privacy preservation, it still requires continuous research efforts and improvements to make it ready for real-world use. This section summarises some future directions to explore.
