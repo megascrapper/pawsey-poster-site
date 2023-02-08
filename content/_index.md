@@ -1,12 +1,18 @@
 ---
-blurb: Internet of Things and smart buildings are all the rage nowadays. While these systems can improve comfort and efficiency, many of these smart systems were built with very little regard to privacy. We are developing an anomaly detection system in time series building IoT data. Also, we identified its privacy threats and propose ways we can mitigate those threats.
-description: "By Akbar Fadiansyah -- Supervised by Dr Chehara Pathmabandu"
-greeting: ""
-image_stretch: true
-image_url: andres-urena-39MVKfRm3TA-unsplash.jpg
-paige:
-  titleclass: display-1 fw-bold text-center
 title: Anomaly Detection for Privacy Preserving Time Series Building IoT Data
+description: "Supporting site for the [Pawsey 2023 summer internship showcase event](https://pawsey.org.au/event/2023-summer-internship-showcase/)."
+blurb: Internet of Things and smart buildings are all the rage nowadays. While these systems can improve comfort and efficiency, many of these smart systems were built with very little regard to privacy. We are developing an anomaly detection system in time series building IoT data. Also, we identified its privacy threats and propose ways we can mitigate those threats.
+authors:
+    - name: By Akbar Fadiansyah -- Supervised by Dr Chehara Pathmabandu and Dr Mahathir Almashor
+paige:
+    home:
+        blurb: Internet of Things and smart buildings are all the rage nowadays. While these systems can improve comfort and efficiency, many of these smart systems were built with very little regard to privacy. We are developing an anomaly detection system in time series building IoT data. Also, we identified its privacy threats and propose ways we can mitigate those threats.
+        greeting: ""
+        image:
+            stretch: true
+            url: andres-urena-39MVKfRm3TA-unsplash.jpg
+        title:
+            class: display-1 fw-bold text-center
 bibFile: /assets/references.json
 ---
 
@@ -184,7 +190,7 @@ Special thanks to:
 
 This work was supported by resources provided by the Pawsey Supercomputing Centre with funding from the Australian Government and the Government of Western Australia.
 
-Splash photo by [Andres Urena](https://unsplash.com/photos/39MVKfRm3TA).
+Website theme is [Paige](https://github.com/willfaught/paige) by [Will Faught](https://github.com/willfaught). Splash photo by [Andres Urena](https://unsplash.com/photos/39MVKfRm3TA).
 
 ## References
 

@@ -31,4 +31,10 @@ theme = ["paige", "hugo-cite"]
 
 [params]
     [params.paige]
-        hide_credit_link = true
+        [params.paige.credit]
+            [params.paige.credit.link]
+                hide = true
+        [params.paige.main]
+            [params.paige.main.metadata]
+                [params.paige.main.metadata.reading_time]
+                    hide = true
