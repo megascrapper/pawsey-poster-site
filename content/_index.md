@@ -3,7 +3,7 @@ blurb: Internet of Things and smart buildings are all the rage nowadays. While t
 description: "By Akbar Fadiansyah -- Supervised by Dr Chehara Pathmabandu"
 greeting: ""
 image_stretch: true
-image_url: stretch.webp
+image_url: andres-urena-39MVKfRm3TA-unsplash.jpg
 paige:
   titleclass: display-1 fw-bold text-center
 title: Anomaly Detection for Privacy Preserving Time Series Building IoT Data
@@ -170,7 +170,7 @@ In our current iteration, each node has its own model, trained independently of 
 
 ### Other
 
-- **Train the model on pre-pandemic data:** As discussed before, the rise in work from home significantly affected occupancy levels of commercial buildings. A model trained prior to 2020 would be beneficial in tracking anomalies during and shortly after the pandemic, where work from home was still considered novel arrangements.
+- **Train the model on pre-pandemic data:** As discussed before, the shift towards permanent work from home arrangements significantly affected occupancy levels of commercial buildings. A model trained prior to 2020 would be beneficial in tracking anomalies during and shortly after the pandemic, where working from the office was still considered the norm.
 - **Improvements to data interpolation:** Each sensor records observations at slightly different times, leaving gaps in between. Our current approach to fill the gaps is to copy the value of the last reading. However, this may not be optimal, especially during extended outages where the sensors are offline. Several papers such as {{< cite "http://zotero.org/groups/4911682/items/PDGRBD78" >}} proposed ways to effectively fill gaps in observations.
 
 ## Acknowledgements
@@ -183,6 +183,8 @@ Special thanks to:
 - The **PyOD** project for providing implementations to numerous anomaly detection algorithms
 
 This work was supported by resources provided by the Pawsey Supercomputing Centre with funding from the Australian Government and the Government of Western Australia.
+
+Splash photo by [Andres Urena](https://unsplash.com/photos/39MVKfRm3TA).
 
 ## References
 
