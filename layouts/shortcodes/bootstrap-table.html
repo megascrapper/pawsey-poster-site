@@ -1,5 +1,9 @@
-<!-- https://www.mybluelinux.com/how-create-bootstrap-tables-in-hugo/ -->
-<!-- https://kolappan.com/blog/2022/bootstrap-tables-in-hugo/ -->
+<!-- Shortcode for making bootstrap tables look a little nicer -->
+<!--
+    Sources:
+    https://www.mybluelinux.com/how-create-bootstrap-tables-in-hugo/
+    https://kolappan.com/blog/2022/bootstrap-tables-in-hugo/
+-->
 
 {{ $htmlTable := .Inner | markdownify }}
 {{ $table_class := .Get "table_class" }}
