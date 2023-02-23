@@ -1,6 +1,7 @@
 baseURL = "https://megascrapper.github.io/pawsey-poster-site/"
 languageCode = 'en-au'
 title = "Anomaly Detection for Privacy Preserving Time Series Building IoT Data"
+copyright = "© 2023 CSIRO"
 theme = ["paige", "hugo-cite"]
 
 
